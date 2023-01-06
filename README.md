@@ -1,7 +1,5 @@
 # eBeeDex
 
-To-do - add license
-
 This eBee Dex lists all known eBees and their back story. If you find anymore in the wild, please feel free to open a pull request so we have the most up to date information on the species.
 
 <table>
