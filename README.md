@@ -73,6 +73,7 @@ This eBee Dex lists all known eBees and their back story. If you find anymore in
      <br />
      <br />
        Backstory:
+       The Astronaut eBee was chosen among her hive for her deep technical skills, her precision at piloting, and her thirst for adventure. She travels through space to establish relationships with other intelligent species, promoting peaceful and mutually beneficial cooperation. She loves meeting youngsters and encourages them into becoming astronauts.
    </td>
   </tr>
   <tr>
