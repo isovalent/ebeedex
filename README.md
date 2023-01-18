@@ -15,10 +15,10 @@ This eBee Dex lists all known eBees and their back story. If you find anymore in
   <tr>
    <td> <img src="images/jedi-bee.png" alt="Jedi" width="500">
    </td>
-   <td>#2: Jedi eBee
+   <td>#2: Jedi eBee (Obee-Wan Kenobee)
      <br />
      <br />
-       Backstory:
+       Backstory: Obee-Wan Kenobee ranges across the galaxy defending colonies from moths, birds, ants, mites, mice, bears, and other malicious actors. Obee-Wan uses the Force to sense things in happening in the kernel and his lightsaber for aggressive negotiations when a process gets out of line. Obee-Wan also taught Tetragon eBee everything he knows. 
    </td>
   </tr>
   <tr>
