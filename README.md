@@ -55,6 +55,7 @@ This eBee Dex lists all known eBees and their back story. If you find anymore in
      <br />
      <br />
        Backstory:
+       Another mystery to solve? This is a job for Detective eBee! He has an eye for details, and always keeps it open. Ever since his honey jar was stolen as a child, he's been tracking (and catching!) offenders. There's no bug better at finding clues, be it on the crime scene or deep in flow logs. One day he'll have Badger O'Flake, his sworn enemy, locked up for good. Will he need his all-powerful eBPF tools for that? Elementary, my dear eBee!
    </td>
   </tr>
   <tr>
