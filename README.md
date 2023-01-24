@@ -46,6 +46,7 @@ This eBee Dex lists all known eBees and their back story. If you find anymore in
      <br />
      <br />
        Backstory:
+       Security eBee is committed to ensure the well-being of all his community. He brings law, order, but also assistance and kindness to every bee in the Hive. He's often seen hard at work with his “STOP” sign, monitoring the traffic between honeycombs. Security eBee will sometimes be involved in investigations, but will defer complex cases to his friend, Detective eBee.
    </td>
   </tr>
   <tr>
