@@ -9,7 +9,8 @@ This eBee Dex lists all known eBees and their back story. If you find anymore in
    <td> #1: Tetragon eBee
      <br />
      <br />
-       Backstory: Tetragon eBee is from the genus Tetragonula which is a kind of stingless bee. Tetragonula protect their hive in a collective effort, but without a stinger, Tetragon eBee took up his sword and shield. He spends his days observing the kernel and defending it from malicious actors.
+       Backstory:
+       Tetragon eBee is from the genus Tetragonula which is a kind of stingless bee. Tetragonula protect their hive in a collective effort, but without a stinger, Tetragon eBee took up his sword and shield. He spends his days observing the kernel and defending it from malicious actors.
    </td>
   </tr>
   <tr>
@@ -18,7 +19,8 @@ This eBee Dex lists all known eBees and their back story. If you find anymore in
    <td>#2: Jedi eBee (Obee-Wan Kenobee)
      <br />
      <br />
-       Backstory: Obee-Wan Kenobee ranges across the galaxy defending colonies from moths, birds, ants, mites, mice, bears, and other malicious actors. Obee-Wan uses the Force to sense things in happening in the kernel and his lightsaber for aggressive negotiations when a process gets out of line. Obee-Wan also taught Tetragon eBee everything he knows. 
+       Backstory:
+       Obee-Wan Kenobee ranges across the galaxy defending colonies from moths, birds, ants, mites, mice, bears, and other malicious actors. Obee-Wan uses the Force to sense things in happening in the kernel and his lightsaber for aggressive negotiations when a process gets out of line. Obee-Wan also taught Tetragon eBee everything he knows. 
    </td>
   </tr>
   <tr>
@@ -28,6 +30,7 @@ This eBee Dex lists all known eBees and their back story. If you find anymore in
      <br />
      <br />
        Backstory:
+       While many bees hibernate for winter, Skiing eBee loves to go where no bee has gone before. Growing up in the verdant vallies of Diavolezza, she always wondered what the Swiss people did when she was sleeping. Curiosity eventually got the better of Skiing eBee and she awoke to find a white winter wonderland. She strapped on a pair of skis and quickly progressed from the bunny hill to double blacks and hasn't looked back since.
    </td>
   </tr>
   <tr>
