@@ -40,6 +40,7 @@ This eBee Dex lists all known eBees and their back story. If you find anymore in
      <br />
      <br />
        Backstory:
+       Pulses and signals are the daily lot for Electrician eBee. There's no wire, no circuit that she cannot tame. Of course, it helps when you're a creature sensitive to electromagnetic fields. Electrician eBee does her best to connect all parts of complex systems and makes it all work flawlessly. She won't hesitate to hook eBPF programs to electrical sockets if she has to. Or to report any misbehaving frequency... Wait! Could Electrician eBee be an undercover Secret Agent from the Hive?
    </td>
   </tr>
   <tr>
