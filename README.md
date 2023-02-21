@@ -70,6 +70,7 @@ This eBee Dex lists all known eBees and their back story. If you find anymore in
      <br />
      <br />
        Backstory:
+       Beekeeper eBee enjoys her life! She loves going outdoors for hiking, cycling, climbing, or staying comfortably home with a book and a warm cup of tea. Alas, this leaves her little time to gather pollen. But she gets help from her cousins, smaller honeybees, of whom she loves taking care. Ensuring every worker in the hive is healthy and happy brings her joy... And honey!
    </td>
   </tr>
   <tr>
