@@ -90,6 +90,7 @@ This eBee Dex lists all known eBees and their back story. If you find anymore in
      <br />
      <br />
        Backstory:
+       Keeping up on the latest buzz in the community is no problem for Webinar eBee. Whether it be learning about faster networking, deeper observabiliy, or new security systems to keep honey safe from bears, there is always a new webinar to catch. It's not all just binging content though, Webinar eBee has been known to create some amazing Star Wars themed demos to inspire the next generation of eBees.
    </td>
   </tr>
 </table>
