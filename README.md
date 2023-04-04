@@ -103,7 +103,7 @@ This eBee Dex lists all known eBees and their back story. If you find anymore in
    </td>
   </tr>
   <tr>
-   <td> <img src="images/travel-bee.png" alt="Travel" width="400">
+   <td> <img src="images/travel-bee.png" alt="Travel" width="300">
    </td>
    <td>#11: Travel eBee
      <br />
