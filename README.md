@@ -111,5 +111,16 @@ This eBee Dex lists all known eBees and their back story. If you find anymore in
        Backstory:
    </td>
   </tr>
+  <tr>
+   <td> <img src="images/public-speaking-bee.png" alt="Public Speaker" width="400">
+   </td>
+   <td>#15: Public Speaker eBee
+     <br />
+     <br />
+       Backstory:
+       The Public Speaker eBee loves to answer questions from the community. Whether it's in an AMA session, or quick Q&A after a conference talk, Public Speaker eBee enjoys a good thought-provoking question about eBPF-based projects. Public Speaker eBee is always eager to lend their microphone and help others be heard in the discussion.
+   </td>
+  </tr>
 </table>
 
+We hope you enjoy the eBeeDex! As you can see from the LICENSE file, you're welcome to use these eBees for non-commercial purposes. Please make sure you give attribution to Isovalent, linking either to [this repo](https://github.com/isovalent/ebeedex) or to [isovalent.com](isovalent.com). 
