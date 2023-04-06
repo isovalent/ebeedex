@@ -111,5 +111,16 @@ This eBee Dex lists all known eBees and their back story. If you find anymore in
        Backstory:
    </td>
   </tr>
+  <tr>
+   <td> <img src="images/celebration-bee.png" alt="Celebration" width="400">
+   </td>
+   <td>#15: Celebration eBee
+     <br />
+     <br />
+       Backstory:
+       Celebration eBee loves a good party! Whether it's birthdays, graduations, anniversaries, or a software release,  Celebration eBee is ready to celebrate any and every accomplishment and milestone happening in the hive.  
+   </td>
+  </tr>
 </table>
 
+We hope you enjoy the eBeeDex! As you can see from the LICENSE file, you're welcome to use these eBees for non-commercial purposes. Please make sure you give attribution to Isovalent, linking either to [this repo](https://github.com/isovalent/ebeedex) or to [isovalent.com](isovalent.com). 
