@@ -111,5 +111,16 @@ This eBee Dex lists all known eBees and their back story. If you find anymore in
        Backstory:
    </td>
   </tr>
+  <tr>
+   <td> <img src="images/excel-bee.png" alt="excelBPF™" width="400">
+   </td>
+   <td>#16: excelBPF™ eBee
+     <br />
+     <br />
+       Backstory:
+       excelBPF™ eBee is a technology futurist, expert Excel user, and a bit of a practical joker who plays light-hearted April Fool's Day jokes on people.  She's super excited about the promise of the eBPF implementation being developed for the Windows OS, and wants to help the community think about what an eBPF empowered Windows experience would look like, while also having a little fun by playing a joke with her Excel VBA skills. 
+   </td>
+  </tr>
 </table>
 
+We hope you enjoy the eBeeDex! As you can see from the LICENSE file, you're welcome to use these eBees for non-commercial purposes. Please make sure you give attribution to Isovalent, linking either to [this repo](https://github.com/isovalent/ebeedex) or to [isovalent.com](isovalent.com). 
