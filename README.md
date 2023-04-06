@@ -118,7 +118,7 @@ This eBee Dex lists all known eBees and their back story. If you find anymore in
      <br />
      <br />
        Backstory:
-       Originally from the southern hemisphere, the Santa bee enjoys frolicking through the summer flower meadows during the Christmas holiday season and giving small gifts to the rest of the hive to mark the festive holiday season at the end of the calendar year. While the northern bees are hunkered down for winter, the Santa bee meets with them virtually to give them a reminder of the summer days ahead.
+       Originally from the southern hemisphere, Santa eBee enjoys frolicking through the summer flower meadows during the Christmas holiday season and giving small gifts to the rest of the hive to mark the festive holiday season at the end of the calendar year. While the northern bees are hunkered down for winter, Santa eBee meets with them virtually to give them a reminder of the summer days ahead.
    </td>
   </tr>
 </table>
