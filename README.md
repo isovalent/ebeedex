@@ -103,12 +103,22 @@ This eBee Dex lists all known eBees and their back story. If you find anymore in
    </td>
   </tr>
   <tr>
-   <td> <img src="images/travel-bee.png" alt="Travel" width="400">
+   <td> <img src="images/travel-bee.png" alt="Travel" width="300">
    </td>
    <td>#11: Travel eBee
      <br />
      <br />
        Backstory:
+   </td>
+  </tr>
+  <tr>
+   <td> <img src="images/santa-bee.png" alt="Santa" width="400">
+   </td>
+   <td>#10: Santa eBee
+     <br />
+     <br />
+       Backstory:
+       Originally from the southern hemisphere, the Santa bee enjoys frolicking through the summer flower meadows during the Christmas holiday season and giving small gifts to the rest of the hive to mark the festive holiday season at the end of the calendar year. While the northern bees are hunkered down for winter, the Santa bee meets with them virtually to give them a reminder of the summer days ahead.
    </td>
   </tr>
 </table>
