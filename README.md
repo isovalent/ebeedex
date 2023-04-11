@@ -103,6 +103,15 @@ This eBee Dex lists all known eBees and their back story. If you find anymore in
    </td>
   </tr>
   <tr>
+   <td> <img src="images/travel-bee.png" alt="Travel" width="300">
+   </td>
+   <td>#11: Travel eBee
+     <br />
+     <br />
+       Backstory:
+   </td>
+  </tr>
+  <tr>
    <td> <img src="images/slayer-bee.png" alt="Slayer" width="400">
    </td>
    <td>#13: Slayer eBee
@@ -113,3 +122,4 @@ This eBee Dex lists all known eBees and their back story. If you find anymore in
   </tr>
 </table>
 
+We hope you enjoy the eBeeDex! As you can see from the LICENSE file, you're welcome to use these eBees for non-commercial purposes. Please make sure you give attribution to Isovalent, linking either to [this repo](https://github.com/isovalent/ebeedex) or to [isovalent.com](isovalent.com). 
