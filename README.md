@@ -111,6 +111,16 @@ This eBee Dex lists all known eBees and their back story. If you find anymore in
        Backstory:
    </td>
   </tr>
+  <tr>
+   <td> <img src="images/easter-egg-bee.png" alt="Easter Egg" width="400">
+   </td>
+   <td>#16: Easter Egg eBee
+     <br />
+     <br />
+       Backstory:
+       Easter Egg Ebee loves puzzles and hiding things.  She'll loves leaving little clues inside some of the instructional labs and other learning materials, clues to help solve cute puzzles she's come up with. Or sometimes she just leaves cute little easter eggs she'll hope you find just to make you smile. 
+   </td>
+  </tr>
 </table>
 
 We hope you enjoy the eBeeDex! As you can see from the LICENSE file, you're welcome to use these eBees for non-commercial purposes. Please make sure you give attribution to Isovalent, linking either to [this repo](https://github.com/isovalent/ebeedex) or to [isovalent.com](isovalent.com). 
