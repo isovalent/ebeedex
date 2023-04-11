@@ -102,5 +102,14 @@ This eBee Dex lists all known eBees and their back story. If you find anymore in
        Backstory:
    </td>
   </tr>
+  <tr>
+   <td> <img src="images/slayer-bee.png" alt="Slayer" width="400">
+   </td>
+   <td>#13: Slayer eBee
+     <br />
+     <br />
+       Backstory:
+   </td>
+  </tr>
 </table>
 
