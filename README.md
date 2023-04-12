@@ -121,6 +121,16 @@ This eBee Dex lists all known eBees and their back story. If you find anymore in
        Originally from the southern hemisphere, Santa eBee enjoys frolicking through the summer flower meadows during the Christmas holiday season and giving small gifts to the rest of the hive to mark the festive holiday season at the end of the calendar year. While the northern bees are hunkered down for winter, Santa eBee meets with them virtually to give them a reminder of the summer days ahead.
    </td>
   </tr>
+  <tr>
+   <td> <img src="images/kind-bee.png" alt="Kind" width="400">
+   </td>
+   <td>#13: Kind eBee
+     <br />
+     <br />
+       Backstory:
+       Every bee working in the hive needs to be reminded sometimes to take time for themselves. Kind eBee is there to support the other bees in the hive by watching out for their emotional and mental well-being. She likes helping the rest of the hive find the right work-life balance and healthy life habits. She's also happy to provide a caring hug when its needed.
+   </td>
+  </tr>
 </table>
 
 We hope you enjoy the eBeeDex! As you can see from the LICENSE file, you're welcome to use these eBees for non-commercial purposes. Please make sure you give attribution to Isovalent, linking either to [this repo](https://github.com/isovalent/ebeedex) or to [isovalent.com](isovalent.com). 
