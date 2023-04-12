@@ -112,9 +112,49 @@ This eBee Dex lists all known eBees and their back story. If you find anymore in
    </td>
   </tr>
   <tr>
+   <td> <img src="images/santa-bee.png" alt="Santa" width="400">
+   </td>
+   <td>#12: Santa eBee
+     <br />
+     <br />
+       Backstory:
+       Originally from the southern hemisphere, Santa eBee enjoys frolicking through the summer flower meadows during the Christmas holiday season and giving small gifts to the rest of the hive to mark the festive holiday season at the end of the calendar year. While the northern bees are hunkered down for winter, Santa eBee meets with them virtually to give them a reminder of the summer days ahead.
+   </td>
+  </tr>
+  <tr>
+   <td> <img src="images/kind-bee.png" alt="Kind" width="400">
+   </td>
+   <td>#13: Kind eBee
+     <br />
+     <br />
+       Backstory:
+       Every bee working in the hive needs to be reminded sometimes to take time for themselves. Kind eBee is there to support the other bees in the hive by watching out for their emotional and mental well-being. She likes helping the rest of the hive find the right work-life balance and healthy life habits. She's also happy to provide a caring hug when its needed.
+   </td>
+  </tr>
+  <tr>
+   <td> <img src="images/public-speaking-bee.png" alt="Public Speaker" width="400">
+   </td>
+   <td>#14: Public Speaker eBee
+     <br />
+     <br />
+       Backstory:
+       The Public Speaker eBee loves to answer questions from the community. Whether it's in an AMA session, or quick Q&A after a conference talk, Public Speaker eBee enjoys a good thought-provoking question about eBPF-based projects. Public Speaker eBee is always eager to lend their microphone and help others be heard in the discussion.
+   </td>
+  </tr>
+  <tr>
+   <td> <img src="images/excel-bee.png" alt="excelBPF™" width="400">
+   </td>
+   <td>#15: excelBPF™ eBee
+     <br />
+     <br />
+       Backstory:
+       excelBPF™ eBee is a technology futurist, expert Excel user, and a bit of a practical joker who plays light-hearted [April Fool's Day jokes](https://ebpf.io/blog/launching-excel-bpf/) on people.  She's super excited about the promise of [eBPF for Windows](https://github.com/microsoft/ebpf-for-windows) and wants to help the community think about what an eBPF empowered Windows experience would look like. Having fun by playing a joke with her Excel VBA skills is also in the books. 
+   </td>
+  </tr>
+  <tr>
    <td> <img src="images/celebration-bee.png" alt="Celebration" width="400">
    </td>
-   <td>#15: Celebration eBee
+   <td>#16: Celebration eBee
      <br />
      <br />
        Backstory:
