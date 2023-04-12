@@ -114,7 +114,7 @@ This eBee Dex lists all known eBees and their back story. If you find anymore in
   <tr>
    <td> <img src="images/santa-bee.png" alt="Santa" width="400">
    </td>
-   <td>#10: Santa eBee
+   <td>#12: Santa eBee
      <br />
      <br />
        Backstory:
