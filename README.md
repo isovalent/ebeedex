@@ -131,6 +131,16 @@ This eBee Dex lists all known eBees and their back story. If you find anymore in
        Every bee working in the hive needs to be reminded sometimes to take time for themselves. Kind eBee is there to support the other bees in the hive by watching out for their emotional and mental well-being. She likes helping the rest of the hive find the right work-life balance and healthy life habits. She's also happy to provide a caring hug when its needed.
    </td>
   </tr>
+  <tr>
+   <td> <img src="images/public-speaking-bee.png" alt="Public Speaker" width="400">
+   </td>
+   <td>#14: Public Speaker eBee
+     <br />
+     <br />
+       Backstory:
+       The Public Speaker eBee loves to answer questions from the community. Whether it's in an AMA session, or quick Q&A after a conference talk, Public Speaker eBee enjoys a good thought-provoking question about eBPF-based projects. Public Speaker eBee is always eager to lend their microphone and help others be heard in the discussion.
+   </td>
+  </tr>
 </table>
 
 We hope you enjoy the eBeeDex! As you can see from the LICENSE file, you're welcome to use these eBees for non-commercial purposes. Please make sure you give attribution to Isovalent, linking either to [this repo](https://github.com/isovalent/ebeedex) or to [isovalent.com](isovalent.com). 
