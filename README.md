@@ -117,7 +117,7 @@ This eBee Dex lists all known eBees and their back story. If you find anymore in
      <br />
      <br />
        Backstory:
-       We all love a good game of Capture the Flag, and 8-bit CTF eBee is no exception. 8-bit CTF eBee loves learning new technical tricks by watching how other people solve the same challenge. She also loves giving people hints when they get stuck, because what she loves best of all is watching people stretch themselves. You can find 8-bit CTF eBee hanging out with Congratulations eBee, they're best buds. 
+       We all love a good game of Capture the Flag, and 8-bit CTF eBee is no exception. 8-bit CTF eBee loves learning new technical tricks by watching how other people solve the same challenge. She also loves giving people hints when they get stuck, because what she loves best of all is watching people stretch themselves to achieve a new goal. You can find 8-bit CTF eBee hanging out with Congratulations eBee, they're best buds. 
    </td>
   </tr>
 </table>
