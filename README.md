@@ -118,7 +118,7 @@ This eBee Dex lists all known eBees and their back story. If you find anymore in
      <br />
      <br />
        Backstory:
-       Celebration eBee loves a good party! Whether it's birthdays, graduations, anniversaries, or a software release,  Celebration eBee is ready to celebrate any and every accomplishment and milestone happening in the hive.  
+       Celebration eBee loves a good party! Whether it's birthdays, graduations, anniversaries, or a software release,  Celebration eBee is ready to celebrate each and every accomplishment and milestone happening in the hive.  
    </td>
   </tr>
 </table>
