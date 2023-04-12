@@ -111,6 +111,16 @@ This eBee Dex lists all known eBees and their back story. If you find anymore in
        Backstory:
    </td>
   </tr>
+  <tr>
+   <td> <img src="images/santa-bee.png" alt="Santa" width="400">
+   </td>
+   <td>#12: Santa eBee
+     <br />
+     <br />
+       Backstory:
+       Originally from the southern hemisphere, Santa eBee enjoys frolicking through the summer flower meadows during the Christmas holiday season and giving small gifts to the rest of the hive to mark the festive holiday season at the end of the calendar year. While the northern bees are hunkered down for winter, Santa eBee meets with them virtually to give them a reminder of the summer days ahead.
+   </td>
+  </tr>
 </table>
 
 We hope you enjoy the eBeeDex! As you can see from the LICENSE file, you're welcome to use these eBees for non-commercial purposes. Please make sure you give attribution to Isovalent, linking either to [this repo](https://github.com/isovalent/ebeedex) or to [isovalent.com](isovalent.com). 
