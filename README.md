@@ -171,6 +171,16 @@ This eBee Dex lists all known eBees and their back story. If you find anymore in
        Easter Egg Ebee loves puzzles and hiding things.  She'll loves leaving little clues inside some of the instructional labs and other learning materials, clues to help solve cute puzzles she's come up with. Or sometimes she just leaves cute little easter eggs she'll hope you find just to make you smile. 
    </td>
   </tr>
+  <tr>
+   <td> <img src="images/8bit-ctf-bee.png" alt="8-bit CTF" width="300">
+   </td>
+   <td>#18: 8-bit CTF eBee
+     <br />
+     <br />
+       Backstory:
+       We all love a good game of Capture the Flag, and 8-bit CTF eBee is no exception. 8-bit CTF eBee loves learning new technical tricks by watching how other people solve the same challenge. She also loves giving people hints when they get stuck, because what she loves best of all is watching people stretch themselves to achieve a new goal. You can find 8-bit CTF eBee hanging out with Congratulations eBee, they're best buds. 
+   </td>
+  </tr>
 </table>
 
 We hope you enjoy the eBeeDex! As you can see from the LICENSE file, you're welcome to use these eBees for non-commercial purposes. Please make sure you give attribution to Isovalent, linking either to [this repo](https://github.com/isovalent/ebeedex) or to [isovalent.com](isovalent.com). 
