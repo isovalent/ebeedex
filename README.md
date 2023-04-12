@@ -141,6 +141,16 @@ This eBee Dex lists all known eBees and their back story. If you find anymore in
        The Public Speaker eBee loves to answer questions from the community. Whether it's in an AMA session, or quick Q&A after a conference talk, Public Speaker eBee enjoys a good thought-provoking question about eBPF-based projects. Public Speaker eBee is always eager to lend their microphone and help others be heard in the discussion.
    </td>
   </tr>
+  <tr>
+   <td> <img src="images/excel-bee.png" alt="excelBPF™" width="400">
+   </td>
+   <td>#15: excelBPF™ eBee
+     <br />
+     <br />
+       Backstory:
+       excelBPF™ eBee is a technology futurist, expert Excel user, and a bit of a practical joker who plays light-hearted [April Fool's Day jokes](https://ebpf.io/blog/launching-excel-bpf/) on people.  She's super excited about the promise of [eBPF for Windows](https://github.com/microsoft/ebpf-for-windows) and wants to help the community think about what an eBPF empowered Windows experience would look like. Having fun by playing a joke with her Excel VBA skills is also in the books. 
+   </td>
+  </tr>
 </table>
 
 We hope you enjoy the eBeeDex! As you can see from the LICENSE file, you're welcome to use these eBees for non-commercial purposes. Please make sure you give attribution to Isovalent, linking either to [this repo](https://github.com/isovalent/ebeedex) or to [isovalent.com](isovalent.com). 
