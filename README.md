@@ -188,7 +188,7 @@ This eBee Dex lists all known eBees and their back story. If you find anymore in
      <br />
      <br />
        Backstory:
-       Everyone please give a warm welcome to newBee NewBee.  NewBee is new to the community and the number of questions they have is only surpassed by their enthusiasm to learn. NewBee hasn't figured out what role they want to play in the Hive yet, so they'll be buzzing around the different areas meeting the other bees and learning from them.   
+       Everyone please give a warm welcome to newBee eBee.  NewBee is new to the community and the number of questions they have is only surpassed by their enthusiasm to learn. NewBee hasn't quite figured out what role they want to play in the Hive yet, so they'll be buzzing around the different teams meeting the other bees and learning from them.   
    </td>
   </tr>
 </table>
