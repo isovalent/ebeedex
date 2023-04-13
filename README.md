@@ -99,7 +99,7 @@ This eBee Dex lists all known eBees and their back story. If you find anymore in
    <td>#10: Teacher eBee
      <br />
      <br />
-       Backstory:
+       Backstory: eBPF is a rapidly developing technology and there is so much to learn! Never fear, Teacher eBee is here to help. From documentation to tutorials and labs, Teacher eBee is always coming out with new ways to educate and entertain the hive. NewBee eBee is often close to Teacher eBee to cross pollinate some learnings, but Teacher eBee is also known to create courses where even Daniel and Alexei can learn things.
    </td>
   </tr>
   <tr>
