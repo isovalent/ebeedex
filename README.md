@@ -184,7 +184,7 @@ This eBee Dex lists all known eBees and their back story. If you find anymore in
   <tr>
    <td> <img src="images/new-bee.png" alt="new bee" width="300">
    </td>
-   <td>#18: NewBee eBee
+   <td>#19: NewBee eBee
      <br />
      <br />
        Backstory:
