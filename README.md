@@ -108,7 +108,7 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
    <td>#11: Travel eBee
      <br />
      <br />
-       Backstory:
+       Backstory: Bees usually stick close to their hive, but after seeing all of the possibiles eBPF unlocks for the kernel, Travel eBee knew there was so much more to experience in the world. Working in open source, Travel eBee has also made friends all around the world and is always up for a chance to meet them in person for a beer or some nectar. Travel eBee has been to six continents so far and is just waiting for the invite from Tux to visit the seventh.
    </td>
   </tr>
   <tr>
