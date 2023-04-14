@@ -148,7 +148,7 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
      <br />
      <br />
        Backstory:
-       excelBPF™ eBee is a technology futurist, expert Excel user, and a bit of a practical joker who plays light-hearted [April Fool's Day jokes](https://ebpf.io/blog/launching-excel-bpf/) on people.  She's super excited about the promise of [eBPF for Windows](https://github.com/microsoft/ebpf-for-windows) and wants to help the community think about what an eBPF empowered Windows experience would look like. Having fun by playing a joke with her Excel VBA skills is also in the books. 
+       excelBPF™ eBee is a technology futurist, expert Excel user, and a bit of a practical joker who plays light-hearted <a href="https://ebpf.io/blog/launching-excel-bpf">April Fool's Day jokes</a> on people.  She's super excited about the promise of <a href="https://github.com/microsoft/ebpf-for-windows">eBPF for Windows</a> and wants to help the community think about what an eBPF empowered Windows experience would look like. Having fun by playing a joke with her Excel VBA skills is also in the books.
    </td>
   </tr>
   <tr>
