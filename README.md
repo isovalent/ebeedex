@@ -212,6 +212,15 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
        The hive is always a-buzz with activity, but not all of is always good. Audit eBee is behind the scenes checking to be sure everything is in working order - is that pollen packet going to the right address, should that bee be able to access that honeycomb, and most importantly is there enough honey for the Queen Bee. While not the most visible job, Audit eBee loves ensuring that the hive stays safe and efficient so that others can enjoy the honey of their labor.
    </td>
   </tr>
+  <tr>
+   <td> <img src="images/bounty-hunter-bee.png" alt="Bounty Hunter">
+   </td>
+   <td>#24: Bounty Hunter eBee
+     <br />
+     <br />
+       Another former student from Jedi eBee, Bounty Hunter eBee didn't feel like embracing the Code, and preferred to put on his robust Honeysteel armor and his full-featured pack to look for relentless action. He remains a very close friend to Tetragon eBee. What the latter does for justice, the former tends to do for credits, but they often join forces on delicate missions. Together they signal the end of the party to the most villainous processes, flood packets, or other creatures from the Outer Rim. Between two commissions, Bounty Hunter eBee loves visiting baby eBees at the orphanage where he grew up. He tells stories and helps the younglings as much as he can. This is the way!
+   </td>
+  </tr>
 </table>
 
 We hope you enjoy the eBeeDex! As you can see from the LICENSE file, you're welcome to use these eBees for non-commercial purposes. Please make sure you give attribution to Isovalent, linking either to [this repo](https://github.com/isovalent/ebeedex) or to [isovalent.com](isovalent.com). 
