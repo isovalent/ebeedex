@@ -201,6 +201,17 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
        As a youngling, this eBee quickly realised he had something different from the others. It troubled him deeply as he grew up. But he held on and grew excellent at gymnastics. Attending a competition one day, he had a sudden revelation: he noticed that winners in every inter-hive competition - sports, engineering, space exploration challenges, and more - were always coming from hives or teams with the most diversity. His difference was a chance, after all! With the assistance of Jedi eBee, he turned his physical abilities towards fencing, to fight oppressors and become a champion of Diversity, Equity, and Inclusion, a spark of light and hope for minorities and unique individuals. At last, DEI Force eBee became a trustful member of the Jedi... and even started to fight to reduce the inequities inside of the Order!
    </td>
   </tr>
+  <tr>
+   <td> <img src="images/caribbean-bee.png" alt="Caribbean bee">
+   </td>
+   </td>
+   <td>#21: Caribbean eBee
+     <br />
+     <br />
+       Backstory:
+       What do you need a backstory for when you're resting on a hamoc under a gentle breeze, on the warm and sunny beaches of a Caribbean island? There's no place like the seashore to meet with friends and discuss new networking designs (Oh wait, I'm hearing that Skiing eBee disagrees with this statement). Caribbean eBee invites you for some fun and relaxation. Take a seat next to her. Sip your honey-rum-coconut juice. Listen to the lulling sound of the waves. Enjoy.
+   </td>
+  </tr>
 </table>
 
 We hope you enjoy the eBeeDex! As you can see from the LICENSE file, you're welcome to use these eBees for non-commercial purposes. Please make sure you give attribution to Isovalent, linking either to [this repo](https://github.com/isovalent/ebeedex) or to [isovalent.com](isovalent.com). 
