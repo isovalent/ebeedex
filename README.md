@@ -14,7 +14,7 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
    </td>
   </tr>
   <tr>
-   <td> <img src="images/jedi-bee.png" alt="Jedi" width="500">
+   <td> <img src="images/jedi-bee.png" alt="Jedi">
    </td>
    <td>#2: Jedi eBee (Obee-Wan Kenobee)
      <br />
@@ -24,7 +24,7 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
    </td>
   </tr>
   <tr>
-   <td> <img src="images/skiing-bee.png" alt="skiing" width="500">
+   <td> <img src="images/skiing-bee.png" alt="skiing">
    </td>
    <td>#3: Skiing eBee
      <br />
@@ -34,7 +34,7 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
    </td>
   </tr>
   <tr>
-   <td> <img src="images/electrician-bee.png" alt="Electrician" width="500">
+   <td> <img src="images/electrician-bee.png" alt="Electrician">
    </td>
    <td>#4: Electrician eBee
      <br />
@@ -44,7 +44,7 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
    </td>
   </tr>
   <tr>
-   <td> <img src="images/security-bee.png" alt="Security" width="500">
+   <td> <img src="images/security-bee.png" alt="Security">
    </td>
    <td>#5: Security eBee
      <br />
@@ -54,7 +54,7 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
    </td>
   </tr>
   <tr>
-   <td> <img src="images/detective-bee.png" alt="Detective" width="500">
+   <td> <img src="images/detective-bee.png" alt="Detective">
    </td>
    <td>#6: Detective eBee
      <br />
@@ -64,7 +64,7 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
    </td>
   </tr>
   <tr>
-   <td> <img src="images/beekeeper-bee.png" alt="Beekeeper" width="500">
+   <td> <img src="images/beekeeper-bee.png" alt="Beekeeper">
    </td>
    <td>#7: Beekeeper eBee
      <br />
@@ -74,7 +74,7 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
    </td>
   </tr>
   <tr>
-   <td> <img src="images/astronaut-bee.png" alt="Astronaut" width="500">
+   <td> <img src="images/astronaut-bee.png" alt="Astronaut">
    </td>
    <td>#8: Astronaut eBee
      <br />
@@ -84,7 +84,7 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
    </td>
   </tr>
   <tr>
-   <td> <img src="images/webinar-bee.png" alt="Webinar" width="500">
+   <td> <img src="images/webinar-bee.png" alt="Webinar">
    </td>
    <td>#9: Webinar eBee
      <br />
@@ -94,7 +94,7 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
    </td>
   </tr>
   <tr>
-   <td> <img src="images/teacher-bee.png" alt="Teacher" width="400">
+   <td> <img src="images/teacher-bee.png" alt="Teacher">
    </td>
    <td>#10: Teacher eBee
      <br />
@@ -103,7 +103,7 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
    </td>
   </tr>
   <tr>
-   <td> <img src="images/travel-bee.png" alt="Travel" width="300">
+   <td> <img src="images/travel-bee.png" alt="Travel">
    </td>
    <td>#11: Travel eBee
      <br />
@@ -112,7 +112,7 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
    </td>
   </tr>
   <tr>
-   <td> <img src="images/santa-bee.png" alt="Santa" width="400">
+   <td> <img src="images/santa-bee.png" alt="Santa">
    </td>
    <td>#12: Santa eBee
      <br />
@@ -122,7 +122,7 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
    </td>
   </tr>
   <tr>
-   <td> <img src="images/kind-bee.png" alt="Kind" width="400">
+   <td> <img src="images/kind-bee.png" alt="Kind">
    </td>
    <td>#13: Kind eBee
      <br />
@@ -132,7 +132,7 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
    </td>
   </tr>
   <tr>
-   <td> <img src="images/public-speaking-bee.png" alt="Public Speaker" width="400">
+   <td> <img src="images/public-speaking-bee.png" alt="Public Speaker">
    </td>
    <td>#14: Public Speaker eBee
      <br />
@@ -142,7 +142,7 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
    </td>
   </tr>
   <tr>
-   <td> <img src="images/excel-bee.png" alt="excelBPF™" width="400">
+   <td> <img src="images/excel-bee.png" alt="excelBPF™">
    </td>
    <td>#15: excelBPF™ eBee
      <br />
@@ -152,7 +152,7 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
    </td>
   </tr>
   <tr>
-   <td> <img src="images/celebration-bee.png" alt="Celebration" width="400">
+   <td> <img src="images/celebration-bee.png" alt="Celebration">
    </td>
    <td>#16: Celebration eBee
      <br />
@@ -162,7 +162,7 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
    </td>
   </tr>
   <tr>
-   <td> <img src="images/easter-egg-bee.png" alt="Easter Egg" width="400">
+   <td> <img src="images/easter-egg-bee.png" alt="Easter Egg">
    </td>
    <td>#17: Easter Egg eBee
      <br />
@@ -172,7 +172,7 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
    </td>
   </tr>
   <tr>
-   <td> <img src="images/8bit-ctf-bee.png" alt="8-bit CTF" width="300">
+   <td> <img src="images/8bit-ctf-bee.png" alt="8-bit CTF">
    </td>
    <td>#18: 8-bit CTF eBee
      <br />
@@ -182,7 +182,7 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
    </td>
   </tr>
   <tr>
-   <td> <img src="images/new-bee.png" alt="new bee" width="300">
+   <td> <img src="images/new-bee.png" alt="new bee">
    </td>
    <td>#19: NewBee eBee
      <br />
