@@ -212,6 +212,17 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
        What do you need a backstory for when you're resting on a hamoc under a gentle breeze, on the warm and sunny beaches of a Caribbean island? There's no place like the seashore to meet with friends and discuss new networking designs (Oh wait, I'm hearing that Skiing eBee disagrees with this statement). Caribbean eBee invites you for some fun and relaxation. Take a seat next to her. Sip your honey-rum-coconut juice. Listen to the lulling sound of the waves. Enjoy.
    </td>
   </tr>
+  <tr>
+   <td> <img src="" alt="Holiday bee">
+   </td>
+   </td>
+   <td>#21: Holiday eBee
+     <br />
+     <br />
+       Backstory:
+       The holidays are a time to come together and celebrate everything that has happened in the last year and Holiday eBee takes this task seriously. From decking the halls to exchanging red envelopes to cooking Latkes, no detail is left unnoticed by Holiday eBee when it comes to making traditions come alive. Holiday eBee is from northern latitudes so really enjoys hanging out with Skiing eBee around the holidays too.
+   </td>
+  </tr>
 </table>
 
 We hope you enjoy the eBeeDex! As you can see from the LICENSE file, you're welcome to use these eBees for non-commercial purposes. Please make sure you give attribution to Isovalent, linking either to [this repo](https://github.com/isovalent/ebeedex) or to [isovalent.com](isovalent.com). 
