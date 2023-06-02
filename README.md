@@ -213,7 +213,7 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
    </td>
   </tr>
   <tr>
-   <td> <img src="" alt="Holiday bee">
+   <td> <img src="images/holiday-bee.png" alt="Holiday bee">
    </td>
    </td>
    <td>#21: Holiday eBee
