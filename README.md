@@ -212,7 +212,7 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
        What do you need a backstory for when you're resting on a hamoc under a gentle breeze, on the warm and sunny beaches of a Caribbean island? There's no place like the seashore to meet with friends and discuss new networking designs (Oh wait, I'm hearing that Skiing eBee disagrees with this statement). Caribbean eBee invites you for some fun and relaxation. Take a seat next to her. Sip your honey-rum-coconut juice. Listen to the lulling sound of the waves. Enjoy.
    </td>
   <tr>
-   <td> <img src="" alt="audit bee">
+   <td> <img src="images/audit-bee.png" alt="audit bee">
    </td>
    </td>
    <td>#23: Audit eBee
