@@ -216,10 +216,9 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
    <td> <img src="images/holiday-bee.png" alt="Holiday bee">
    </td>
    </td>
-   <td>#21: Holiday eBee
+   <td>#22: Holiday eBee
      <br />
      <br />
-       Backstory:
        The holidays are a time to come together and celebrate everything that has happened in the last year and Holiday eBee takes this task seriously. From decking the halls to exchanging red envelopes to cooking Latkes, no detail is left unnoticed by Holiday eBee when it comes to making traditions come alive. Holiday eBee is from northern latitudes so really enjoys hanging out with Skiing eBee around the holidays too.
    </td>
   </tr>
