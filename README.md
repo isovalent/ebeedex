@@ -218,7 +218,6 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
    <td>#23: Audit eBee
      <br />
      <br />
-       Backstory:
        The hive is always a-buzz with activity, but not all of is always good. Audit eBee is behind the scenes checking to be sure everything is in working order - is that pollen packet going to the right address, should that bee be able to access that honeycomb, and most importantly is there enough honey for the Queen Bee. While not the most visible job, Audit eBee loves ensuring that the hive stays safe and efficient so that others can enjoy the honey of their labor.
    </td>
   </tr>
