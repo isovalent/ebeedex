@@ -193,16 +193,6 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
        What do you need a backstory for when you're resting on a hamoc under a gentle breeze, on the warm and sunny beaches of a Caribbean island? There's no place like the seashore to meet with friends and discuss new networking designs (Oh wait, I'm hearing that Skiing eBee disagrees with this statement). Caribbean eBee invites you for some fun and relaxation. Take a seat next to her. Sip your honey-rum-coconut juice. Listen to the lulling sound of the waves. Enjoy.
    </td>
   <tr>
-   <td> <img src="images/audit-bee.png" alt="audit bee">
-   </td>
-   </td>
-   <td>#23: Audit eBee
-     <br />
-     <br />
-       The hive is always a-buzz with activity, but not all of is always good. Audit eBee is behind the scenes checking to be sure everything is in working order - is that pollen packet going to the right address, should that bee be able to access that honeycomb, and most importantly is there enough honey for the Queen Bee. While not the most visible job, Audit eBee loves ensuring that the hive stays safe and efficient so that others can enjoy the honey of their labor.
-   </td>
-  </tr>
-  <tr>
    <td> <img src="images/holiday-bee.png" alt="Holiday bee">
    </td>
    </td>
@@ -210,6 +200,16 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
      <br />
      <br />
        The holidays are a time to come together and celebrate everything that has happened in the last year and Holiday eBee takes this task seriously. From decking the halls to exchanging red envelopes to cooking Latkes, no detail is left unnoticed by Holiday eBee when it comes to making traditions come alive. Holiday eBee is from northern latitudes so really enjoys hanging out with Skiing eBee around the holidays too.
+   </td>
+  </tr>
+  <tr>
+   <td> <img src="images/audit-bee.png" alt="audit bee">
+   </td>
+   </td>
+   <td>#23: Audit eBee
+     <br />
+     <br />
+       The hive is always a-buzz with activity, but not all of is always good. Audit eBee is behind the scenes checking to be sure everything is in working order - is that pollen packet going to the right address, should that bee be able to access that honeycomb, and most importantly is there enough honey for the Queen Bee. While not the most visible job, Audit eBee loves ensuring that the hive stays safe and efficient so that others can enjoy the honey of their labor.
    </td>
   </tr>
 </table>
