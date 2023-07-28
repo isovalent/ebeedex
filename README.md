@@ -221,6 +221,15 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
        Another former student from Jedi eBee, Bounty Hunter eBee didn't feel like embracing the Code, and preferred to put on his robust Honeysteel armor and his full-featured pack to look for relentless action. He remains a very close friend to Tetragon eBee. What the latter does for justice, the former tends to do for credits, but they often join forces on delicate missions. Together they signal the end of the party to the most villainous processes, flood packets, or other creatures from the Outer Rim. Between two commissions, Bounty Hunter eBee loves visiting baby eBees at the orphanage where he grew up. He tells stories and helps the younglings as much as he can. This is the way!
    </td>
   </tr>
+  <tr>
+   <td> <img src="images/bulldozer-bee.png" alt="Bulldozer">
+   </td>
+   <td>#26: Bulldozer eBee
+     <br />
+     <br />
+      Infrastructure is a constant work in progress. There is always something that needs to be built, replaced, upgraded, or renewed. Luckily, Bulldozer eBee in on the job. You'll often see him out in the field digging trenches for fiber or laying the groundwork for a new internet exchange point. Once he is finished, Electrician eBee is often right behind him to start up the real wiring.
+   </td>
+  </tr>
 </table>
 
 We hope you enjoy the eBeeDex! As you can see from the LICENSE file, you're welcome to use these eBees for non-commercial purposes. Please make sure you give attribution to Isovalent, linking either to [this repo](https://github.com/isovalent/ebeedex) or to [isovalent.com](isovalent.com). 
