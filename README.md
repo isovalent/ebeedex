@@ -227,7 +227,7 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
    <td>#26: Bulldozer eBee
      <br />
      <br />
-      Infrastructure is a constant work in progress. There is always something that needs to be built, replaced, upgraded, or renewed. Luckily, Bulldozer eBee in on the job. You'll often see him out in the field digging trenches for fiber or laying the groundwork for a new internet exchange point. Once he is finished, Electrician eBee is often right behind him to start up the real wiring.
+      Infrastructure is a constant work in progress. There is always something that needs to be built, replaced, upgraded, or renewed. Luckily, Bulldozer eBee in on the job. You'll often see him out in the field digging trenches for fiber or laying the groundwork for a new Internet exchange point. Once he is finished, Electrician eBee is often right behind him to start up the real wiring. There is also a persistent rumour circulating in the hive that Bulldozer eBee occasionally digs caches to store emergency honey supplies.
    </td>
   </tr>
 </table>
