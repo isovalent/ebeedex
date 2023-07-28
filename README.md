@@ -1,5 +1,7 @@
 # <img src="images/ebeeball.png" width="64"> eBeeDex
 
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](LICENSE)
+
 This eBeeDex lists all known eBees and their back story. If you find any more in the wild, please feel free to open a pull request so we have the most up to date information on the species.
 
 <table>
