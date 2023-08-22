@@ -223,6 +223,15 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
        Another former student from Jedi eBee, Bounty Hunter eBee didn't feel like embracing the Code, and preferred to put on his robust Honeysteel armor and his full-featured pack to look for relentless action. He remains a very close friend to Tetragon eBee. What the latter does for justice, the former tends to do for credits, but they often join forces on delicate missions. Together they signal the end of the party to the most villainous processes, flood packets, or other creatures from the Outer Rim. Between two commissions, Bounty Hunter eBee loves visiting baby eBees at the orphanage where he grew up. He tells stories and helps the younglings as much as he can. This is the way!
    </td>
   </tr>
+  <tr>
+   <td> <img src="images/summer-school-bee.png" alt="Summer School">
+   </td>
+   <td>#25: Summer School eBee
+     <br />
+     <br />
+       Caribbean eBee may already be at the beach for summer holiday, but Summer School eBee is heads down learning about the latest developments in cloud native. In such a quickly developing field as eBPF, there is never enough time to keep up with everything happening and summer school can be a great refresher. With all of the new projects, use cases, and features that Summer School eBee learns from Teacher eBee during the break, you'll be sure to see them answering a lot of NewBee's questions in the fall.
+   </td>
+  </tr>
 </table>
 
 We hope you enjoy the eBeeDex! As you can see from the LICENSE file, you're welcome to use these eBees for non-commercial purposes. Please make sure you give attribution to Isovalent, linking either to [this repo](https://github.com/isovalent/ebeedex) or to [isovalent.com](isovalent.com). 
