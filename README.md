@@ -232,6 +232,14 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
        Caribbean eBee may already be at the beach for summer holiday, but Summer School eBee is heads down learning about the latest developments in cloud native. In such a quickly developing field as eBPF, there is never enough time to keep up with everything happening and summer school can be a great refresher. With all of the new projects, use cases, and features that Summer School eBee learns from Teacher eBee during the break, you'll be sure to see them answering a lot of NewBee's questions in the fall.
    </td>
   </tr>
+  <td> <img src="images/bulldozer-bee.png" alt="Bulldozer">
+  </td>
+   <td>#26: Bulldozer eBee
+     <br />
+     <br />
+      Infrastructure is a constant work in progress. There is always something that needs to be built, replaced, upgraded, or renewed. Luckily, Bulldozer eBee is on the job. You'll often see him out in the field digging trenches for fiber or laying the groundwork for a new Internet exchange point. Once he is finished, Electrician eBee is often right behind him to start up the real wiring. There is also a persistent rumour circulating in the hive that Bulldozer eBee occasionally digs caches to store emergency honey supplies.
+   </td>
+  </tr>
 </table>
 
 We hope you enjoy the eBeeDex! As you can see from the LICENSE file, you're welcome to use these eBees for non-commercial purposes. Please make sure you give attribution to Isovalent, linking either to [this repo](https://github.com/isovalent/ebeedex) or to [isovalent.com](isovalent.com). 
