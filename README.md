@@ -230,8 +230,10 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
      <br />
      <br />
        Caribbean eBee may already be at the beach for summer holiday, but Summer School eBee is heads down learning about the latest developments in cloud native. In such a quickly developing field as eBPF, there is never enough time to keep up with everything happening and summer school can be a great refresher. With all of the new projects, use cases, and features that Summer School eBee learns from Teacher eBee during the break, you'll be sure to see them answering a lot of NewBee's questions in the fall.
-  <td> <img src="images/bulldozer-bee.png" alt="Bulldozer">
    </td>
+  </tr>
+  <td> <img src="images/bulldozer-bee.png" alt="Bulldozer">
+  </td>
    <td>#26: Bulldozer eBee
      <br />
      <br />
