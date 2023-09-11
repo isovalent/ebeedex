@@ -245,7 +245,7 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
    <td>#27: Reading eBee
      <br />
      <br />
-      With her head always in a book, Reading eBee seems to be lost in the clouds. Being distracted from the buzzing of daily life doesn't mean she mean she isn't smart, if fact Reading eBee is a well of knowledge. From being able to quote passages from Liz Rice's latest book to knowing all of the top 20 use cases for Cilium, Reading eBee can provide information sweeter than honey. Don't give her an ebook though, she loves the sensory experience of cracking open a freshly printed book or smelling the decades of dust from books hidden away on the top shelf.
+      With her head always in a book, Reading eBee seems to be lost in the clouds. Being distracted from the buzzing of daily life doesn't mean she isn't smart, if fact Reading eBee is a well of knowledge. From being able to quote passages from Liz Rice's latest book to knowing all of the top 20 use cases for Cilium, Reading eBee can provide information sweeter than honey. Don't give her an ebook though, she loves the sensory experience of cracking open a freshly printed book or smelling the decades of dust from books hidden away on the top shelf.
    </td>
   </tr>
 </table>
