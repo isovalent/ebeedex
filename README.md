@@ -240,6 +240,14 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
       Infrastructure is a constant work in progress. There is always something that needs to be built, replaced, upgraded, or renewed. Luckily, Bulldozer eBee is on the job. You'll often see him out in the field digging trenches for fiber or laying the groundwork for a new Internet exchange point. Once he is finished, Electrician eBee is often right behind him to start up the real wiring. There is also a persistent rumour circulating in the hive that Bulldozer eBee occasionally digs caches to store emergency honey supplies.
    </td>
   </tr>
+  <td> <img src="images/reading-bee.png" alt="Reading">
+  </td>
+   <td>#27: Reading eBee
+     <br />
+     <br />
+      With her head always in a book, Reading eBee seems to be lost in the clouds. Being distracted from the buzzing of daily life doesn't mean she isn't smart, if fact Reading eBee is a well of knowledge. From being able to quote passages from Liz Rice's latest book to knowing all of the top 20 use cases for Cilium, Reading eBee can provide information sweeter than honey. Don't give her an ebook though, she loves the sensory experience of cracking open a freshly printed book or smelling the decades of dust from books hidden away on the top shelf.
+   </td>
+  </tr>
 </table>
 
 We hope you enjoy the eBeeDex! As you can see from the LICENSE file, you're welcome to use these eBees for non-commercial purposes. Please make sure you give attribution to Isovalent, linking either to [this repo](https://github.com/isovalent/ebeedex) or to [isovalent.com](isovalent.com). 
