@@ -248,6 +248,14 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
       With her head always in a book, Reading eBee seems to be lost in the clouds. Being distracted from the buzzing of daily life doesn't mean she isn't smart, if fact Reading eBee is a well of knowledge. From being able to quote passages from Liz Rice's latest book to knowing all of the top 20 use cases for Cilium, Reading eBee can provide information sweeter than honey. Don't give her an ebook though, she loves the sensory experience of cracking open a freshly printed book or smelling the decades of dust from books hidden away on the top shelf.
    </td>
   </tr>
+    <td> <img src="images/hiking-bee.png" alt="Hiking">
+  </td>
+   <td><a href="#Hiking eBee" id="Hiking eBee">#28: Hiking eBee</a>
+     <br />
+     <br />
+      Autumn eBee is the hive’s resident mountain enthusiast. When fall arrives, they don their hiking gear and ascend the heights, driven by curiosity. With a keen eye for trails and an unwavering spirit, they’re on a mission to explore the world beyond the hive. At the summit, they soak in the breathtaking vistas, making memories to share when they return to the hive.
+   </td>
+  </tr>
 </table>
 
 We hope you enjoy the eBeeDex! As you can see from the LICENSE file, you're welcome to use these eBees for non-commercial purposes. Please make sure you give attribution to Isovalent, linking either to [this repo](https://github.com/isovalent/ebeedex) or to [isovalent.com](isovalent.com). 
