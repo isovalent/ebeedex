@@ -248,6 +248,14 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
       With her head always in a book, Reading eBee seems to be lost in the clouds. Being distracted from the buzzing of daily life doesn't mean she isn't smart, if fact Reading eBee is a well of knowledge. From being able to quote passages from Liz Rice's latest book to knowing all of the top 20 use cases for Cilium, Reading eBee can provide information sweeter than honey. Don't give her an ebook though, she loves the sensory experience of cracking open a freshly printed book or smelling the decades of dust from books hidden away on the top shelf.
    </td>
   </tr>
+    <td> <img src="images/hiking-bee.png" alt="Hiking">
+  </td>
+   <td><a href="#Hiking eBee" id="Hiking eBee">#28: Hiking eBee</a>
+     <br />
+     <br />
+       Armed with a backpack filled with snacks and a sense of adventure, Hiking eBee is always on the lookout for peak experiences. This eBee is no stranger to challenges. They carefully navigate rocky paths, leap across babbling streams, and scale steep cliffs, always driven by an unwavering appreciation for the outdoors. Along the way, they encounter fellow creatures of the mountain, from deer grazing to inquisitive squirrels, forging connections and cherishing the natural world. As they navigate challenging paths and form bonds with the mountain's residents, they find kindred spirits among their fellow eBees, like the tech-savvy Electrician eBee, who illuminates their night hikes with electric lanterns.
+   </td>
+  </tr>
 </table>
 
 We hope you enjoy the eBeeDex! As you can see from the LICENSE file, you're welcome to use these eBees for non-commercial purposes. Please make sure you give attribution to Isovalent, linking either to [this repo](https://github.com/isovalent/ebeedex) or to [isovalent.com](isovalent.com). 
