@@ -253,7 +253,7 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
    <td><a href="#Hiking eBee" id="Hiking eBee">#28: Hiking eBee</a>
      <br />
      <br />
-       Armed with a backpack filled with snacks and a sense of adventure, Hiking eBee is always on the lookout for peak experiences. This eBee is no stranger to challenges. They carefully navigate rocky paths, leap across babbling streams, and scale steep cliffs, always driven by an unwavering appreciation for the outdoors. Along the way, they encounter fellow creatures of the mountain, from chirping birds to inquisitive squirrels, forging connections and cherishing the natural world. As they navigate challenging paths and form bonds with the mountain's residents, they find kindred spirits among their fellow eBees, like the tech-savvy Electrician eBee, who illuminates their night hikes with digital lanterns.
+       Armed with a backpack filled with snacks and a sense of adventure, Hiking eBee is always on the lookout for peak experiences. This eBee is no stranger to challenges. They carefully navigate rocky paths, leap across babbling streams, and scale steep cliffs, always driven by an unwavering appreciation for the outdoors. Along the way, they encounter fellow creatures of the mountain, from chirping birds to inquisitive squirrels, forging connections and cherishing the natural world. As they navigate challenging paths and form bonds with the mountain's residents, they find kindred spirits among their fellow eBees, like the tech-savvy Electrician eBee, who illuminates their night hikes with electric lanterns.
    </td>
   </tr>
 </table>
