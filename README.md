@@ -262,7 +262,7 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
    <td><a href="#Guardian eBee" id="Guardian eBee">#28: Guardian eBee</a>
      <br />
      <br />
-       With a keen sense of duty and a sharp eye for detail, Guardian eBee is always on alert, tirelessly monitoring the hive for any signs of trouble or intrusion.They are no stranger to challenges, navigating the intricate network of honeycombs, ensuring that every nook and cranny is secure. Much like their fellow eBees, Guardian eBee draws inspiration from Detective eBee’s eye for detail, Security eBee’s dedication to maintaining order, and Jedi eBee’s wisdom in the ways of defense and protection. As they tirelessly safeguard the hive, they find strength and camaraderie in their fellow eBees, making every day a new opportunity to protect and serve.
+       With a keen sense of duty and a sharp eye for detail, Guardian eBee is always on alert, tirelessly monitoring the hive for any signs of trouble or intrusion. They are no stranger to challenges, navigating the intricate network of honeycombs, ensuring that every nook and cranny is secure. Much like their fellow eBees, Guardian eBee draws inspiration from Detective eBee’s eye for detail, Security eBee’s dedication to maintaining order, and Jedi eBee’s wisdom in the ways of defense and protection. As they tirelessly safeguard the hive, they find strength and camaraderie in their fellow eBees, making every day a new opportunity to protect and serve.
    </td>
   </tr>
 </table>
