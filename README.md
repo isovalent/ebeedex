@@ -256,6 +256,15 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
        Armed with a backpack filled with snacks and a sense of adventure, Hiking eBee is always on the lookout for peak experiences. This eBee is no stranger to challenges. They carefully navigate rocky paths, leap across babbling streams, and scale steep cliffs, always driven by an unwavering appreciation for the outdoors. Along the way, they encounter fellow creatures of the mountain, from deer grazing to inquisitive squirrels, forging connections and cherishing the natural world. As they navigate challenging paths and form bonds with the mountain's residents, they find kindred spirits among their fellow eBees, like the tech-savvy Electrician eBee, who illuminates their night hikes with electric lanterns.
    </td>
   </tr>
+    </tr>
+    <td> <img src="images/guardian-bee.png" alt="Guardian">
+  </td>
+   <td><a href="#Guardian eBee" id="Guardian eBee">#29: Guardian eBee</a>
+     <br />
+     <br />
+       With a keen sense of duty, Guardian eBee is always on alert, tirelessly monitoring the hive for any signs of trouble or intrusion. They are no stranger to challenges, navigating the intricate network of honeycombs, ensuring that every nook and cranny is secure. Guardian eBee draws inspiration from Detective eBee's eye for detail, Security eBee's dedication to maintaining order, and Jedi eBee's wisdom in the ways of defense and protection. As they tirelessly safeguard the hive, they find strength and camaraderie in their fellow eBees, making every day a new opportunity to protect and serve.
+   </td>
+  </tr>
 </table>
 
 We hope you enjoy the eBeeDex! As you can see from the LICENSE file, you're welcome to use these eBees for non-commercial purposes. Please make sure you give attribution to Isovalent, linking either to [this repo](https://github.com/isovalent/ebeedex) or to [isovalent.com](isovalent.com). 
