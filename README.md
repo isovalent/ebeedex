@@ -20,7 +20,7 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
    <td><a href="#Jedi eBee (Obee-Wan Kenobee)" id="Jedi eBee (Obee-Wan Kenobee)">#2: Jedi eBee (Obee-Wan Kenobee)</a>
      <br />
      <br />
-       Obee-Wan Kenobee ranges across the galaxy defending colonies from moths, birds, ants, mites, mice, bears, and other malicious actors. Obee-Wan uses the Force to sense things happening in the kernel and his lightsaber for aggressive negotiations when a process gets out of line. Obee-Wan also taught Tetragon eBee everything he knows. 
+       Obee-Wan Kenobee ranges across the galaxy defending colonies from moths, birds, ants, mites, mice, bears, and other malicious actors. Obee-Wan uses the Force to sense things happening in the kernel and his lightsaber for aggressive negotiations when a process gets out of line. Obee-Wan also taught Tetragon eBee everything he knows.
    </td>
   </tr>
   <tr>
@@ -146,7 +146,7 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
    <td><a href="#Celebration eBee" id="Celebration eBee">#16: Celebration eBee</a>
      <br />
      <br />
-       Celebration eBee loves a good party! Whether it's birthdays, graduations, anniversaries, or a software release,  Celebration eBee is ready to celebrate each and every accomplishment and milestone happening in the hive.  
+       Celebration eBee loves a good party! Whether it's birthdays, graduations, anniversaries, or a software release,  Celebration eBee is ready to celebrate each and every accomplishment and milestone happening in the hive.
    </td>
   </tr>
   <tr>
@@ -155,7 +155,7 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
    <td><a href="#Easter Egg eBee" id="Easter Egg eBee">#17: Easter Egg eBee</a>
      <br />
      <br />
-       Easter Egg Ebee loves puzzles and hiding things.  She'll loves leaving little clues inside some of the instructional labs and other learning materials, clues to help solve cute puzzles she's come up with. Or sometimes she just leaves cute little easter eggs she'll hope you find just to make you smile. 
+       Easter Egg Ebee loves puzzles and hiding things.  She'll loves leaving little clues inside some of the instructional labs and other learning materials, clues to help solve cute puzzles she's come up with. Or sometimes she just leaves cute little easter eggs she'll hope you find just to make you smile.
    </td>
   </tr>
   <tr>
@@ -164,7 +164,7 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
    <td><a href="#8-bit CTF eBee" id="8-bit CTF eBee">#18: 8-bit CTF eBee</a>
      <br />
      <br />
-       We all love a good game of Capture the Flag, and 8-bit CTF eBee is no exception. 8-bit CTF eBee loves learning new technical tricks by watching how other people solve the same challenge. She also loves giving people hints when they get stuck, because what she loves best of all is watching people stretch themselves to achieve a new goal. You can find 8-bit CTF eBee hanging out with Congratulations eBee, they're best buds. 
+       We all love a good game of Capture the Flag, and 8-bit CTF eBee is no exception. 8-bit CTF eBee loves learning new technical tricks by watching how other people solve the same challenge. She also loves giving people hints when they get stuck, because what she loves best of all is watching people stretch themselves to achieve a new goal. You can find 8-bit CTF eBee hanging out with Congratulations eBee, they're best buds.
    </td>
   </tr>
   <tr>
@@ -173,7 +173,7 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
    <td><a href="#NewBee eBee" id="NewBee eBee">#19: NewBee eBee</a>
      <br />
      <br />
-       Everyone please give a warm welcome to newBee eBee.  NewBee is new to the community and the number of questions they have is only surpassed by their enthusiasm to learn. NewBee hasn't quite figured out what role they want to play in the Hive yet, so they'll be buzzing around the different teams meeting the other bees and learning from them.   
+       Everyone please give a warm welcome to newBee eBee.  NewBee is new to the community and the number of questions they have is only surpassed by their enthusiasm to learn. NewBee hasn't quite figured out what role they want to play in the Hive yet, so they'll be buzzing around the different teams meeting the other bees and learning from them.
    </td>
   </tr>
   <tr>
@@ -265,6 +265,15 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
        With a keen sense of duty, Guardian eBee is always on alert, tirelessly monitoring the hive for any signs of trouble or intrusion. They are no stranger to challenges, navigating the intricate network of honeycombs, ensuring that every nook and cranny is secure. Guardian eBee draws inspiration from Detective eBee's eye for detail, Security eBee's dedication to maintaining order, and Jedi eBee's wisdom in the ways of defense and protection. As they tirelessly safeguard the hive, they find strength and camaraderie in their fellow eBees, making every day a new opportunity to protect and serve.
    </td>
   </tr>
+  <tr>
+   <td> <img src="images/graduation-bee.png" alt="Graduation Bee" width="1500">
+   </td>
+   <td><a href="#Graduation eBee" id="Graduation eBee">#30: Graduation eBee</a>
+     <br />
+     <br />
+        In the bustling world of Kubernetes, there fluttered a diligent eBee named Graduation. With a keen sense of connectivity and a deep understanding of eBPF magic, Graduation eBee set out to interweave the vast network of Kubernetes clusters. His journey began as a simple CNI craftsman, but with unwavering dedication, he evolved into a master of networking, security, and observability. On a memorable day in October 2023, the Cloud Native Computing Foundation recognized his remarkable transformation, celebrating his graduation with grand festivity.
+   </td>
+  </tr>
 </table>
 
-We hope you enjoy the eBeeDex! As you can see from the LICENSE file, you're welcome to use these eBees for non-commercial purposes. Please make sure you give attribution to Isovalent, linking either to [this repo](https://github.com/isovalent/ebeedex) or to [isovalent.com](isovalent.com). 
+We hope you enjoy the eBeeDex! As you can see from the LICENSE file, you're welcome to use these eBees for non-commercial purposes. Please make sure you give attribution to Isovalent, linking either to [this repo](https://github.com/isovalent/ebeedex) or to [isovalent.com](isovalent.com).
