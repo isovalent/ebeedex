@@ -274,6 +274,15 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
         In the bustling world of Kubernetes, there fluttered a diligent eBee named Graduation. With a keen sense of connectivity and a deep understanding of eBPF magic, Graduation eBee set out to interweave the vast network of Kubernetes clusters. His journey began as a simple CNI craftsman, but with unwavering dedication, he evolved into a master of networking, security, and observability. On a memorable day in October 2023, the Cloud Native Computing Foundation recognized his remarkable transformation, celebrating his graduation with grand festivity.
    </td>
   </tr>
+  </tr>
+  <td> <img src="images/sledding-bee.png" alt="Sledding eBee">
+  </td>
+   <td><a href="#Sledding eBee" id="Sledding eBee">#31: Sledding eBee</a>
+     <br />
+     <br />
+        Winter is here, and a thrill and adventure-seeking eBee, Sledding eBee, isn't shy about being outdoors. She packs her winter gear, not forgetting the sled, and off she goes. She sees the sled as more than just a tool for downhill thrills—it's a means to foster camaraderie in her community. Sledding eBee shares the season with her favorite buddies, Holiday eBee and Skiing eBee. Winter for Sledding eBee is a canvas of laughter, friendship, and heartwarming moments, all accompanied by the joy of a simple cup of hot chocolate.
+   </td>
+  </tr>
 </table>
 
 We hope you enjoy the eBeeDex! As you can see from the LICENSE file, you're welcome to use these eBees for non-commercial purposes. Please make sure you give attribution to Isovalent, linking either to [this repo](https://github.com/isovalent/ebeedex) or to [isovalent.com](isovalent.com).
