@@ -283,6 +283,15 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
         Winter is here, and a thrill and adventure-seeking eBee, Sledding eBee, isn't shy about being outdoors. She packs her winter gear, not forgetting the sled, and off she goes. She sees the sled as more than just a tool for downhill thrills—it's a means to foster camaraderie in her community. Sledding eBee shares the season with her favorite buddies, Holiday eBee and Skiing eBee. Winter for Sledding eBee is a canvas of laughter, friendship, and heartwarming moments, all accompanied by the joy of a simple cup of hot chocolate.
    </td>
   </tr>
+  <tr>
+   <td> <img src="images/lego-bee.png" alt="Lego eBee" width="1500">
+   </td>
+   <td><a href="#Lego eBee" id="Lego eBee">#34: Lego eBee</a>
+     <br />
+     <br />
+       Lego eBee loves piecing together complex cloud native environments. With a knack for modular design, building secure, scalable systems is as easy as snapping bricks together. Whether configuring network policies or fortifying security layers, Lego eBee ensures everything locks into place seamlessly to create resilient cloud infrastructures that adapt and grow to users demands. For Lego eBee, building isn’t just about putting parts together—it’s about crafting secure, dynamic systems where every piece plays a vital role.
+   </td>
+  </tr>
 </table>
 
 We hope you enjoy the eBeeDex! As you can see from the LICENSE file, you're welcome to use these eBees for non-commercial purposes. Please make sure you give attribution to Isovalent, linking either to [this repo](https://github.com/isovalent/ebeedex) or to [isovalent.com](isovalent.com).
