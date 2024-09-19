@@ -283,7 +283,6 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
         Winter is here, and a thrill and adventure-seeking eBee, Sledding eBee, isn't shy about being outdoors. She packs her winter gear, not forgetting the sled, and off she goes. She sees the sled as more than just a tool for downhill thrills—it's a means to foster camaraderie in her community. Sledding eBee shares the season with her favorite buddies, Holiday eBee and Skiing eBee. Winter for Sledding eBee is a canvas of laughter, friendship, and heartwarming moments, all accompanied by the joy of a simple cup of hot chocolate.
    </td>
   </tr>
-    </tr>
   </tr>
   <td> <img src="images/multi-network-bee.png" alt="Multi-Network eBee">
   </td>
