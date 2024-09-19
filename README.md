@@ -283,6 +283,16 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
         Winter is here, and a thrill and adventure-seeking eBee, Sledding eBee, isn't shy about being outdoors. She packs her winter gear, not forgetting the sled, and off she goes. She sees the sled as more than just a tool for downhill thrills—it's a means to foster camaraderie in her community. Sledding eBee shares the season with her favorite buddies, Holiday eBee and Skiing eBee. Winter for Sledding eBee is a canvas of laughter, friendship, and heartwarming moments, all accompanied by the joy of a simple cup of hot chocolate.
    </td>
   </tr>
+    </tr>
+  </tr>
+  <td> <img src="images/multi-network-bee.png" alt="Multi-Network eBee">
+  </td>
+   <td><a href="#Multi-Network eBee" id="Sledding eBee">#32: Multi-Network eBee</a>
+     <br />
+     <br />
+        Always up for a new technical adventure, Multi-Network eBee jumps from one network to another with ease, handling multiple clusters and service meshes like second nature. She doesn’t just see multi-networking as a job—it’s her way of creating seamless connections across complex infrastructures. Whether she's linking isolated zones or bridging hybrid clouds, Multi-Network eBee is always in the thick of it. For Multi-Network eBee, it’s not just about managing traffic—it’s about building a more connected world, one more network at a time.
+   </td>
+  </tr>
 </table>
 
 We hope you enjoy the eBeeDex! As you can see from the LICENSE file, you're welcome to use these eBees for non-commercial purposes. Please make sure you give attribution to Isovalent, linking either to [this repo](https://github.com/isovalent/ebeedex) or to [isovalent.com](isovalent.com).
