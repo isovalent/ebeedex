@@ -283,6 +283,15 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
         Winter is here, and a thrill and adventure-seeking eBee, Sledding eBee, isn't shy about being outdoors. She packs her winter gear, not forgetting the sled, and off she goes. She sees the sled as more than just a tool for downhill thrills—it's a means to foster camaraderie in her community. Sledding eBee shares the season with her favorite buddies, Holiday eBee and Skiing eBee. Winter for Sledding eBee is a canvas of laughter, friendship, and heartwarming moments, all accompanied by the joy of a simple cup of hot chocolate.
    </td>
   </tr>
+  <tr>
+   <td> <img src="images/vr-bee.png" alt="VR eBee" width="1500">
+   </td>
+   <td><a href="#VR eBee" id="VR eBee">#35: VR eBee</a>
+     <br />
+     <br />
+       VR eBee is at home in the virtual world of Kubernetes clusters and cloud native infrastructure. Navigating between pods, services, and nodes, she brings a new dimension to cluster management by visualizing the network and interconnections in 3D space. Whether it’s monitoring traffic flows, troubleshooting networks, or finding malicious actors in the honey pot, VR eBee transforms complex cloud-native environments into interactive, immersive experiences. Her favorite part of Cilium is Hubble because managing Kubernetes isn’t just about code—it's about seeing the entire system in real-time and using that information to optomize it.
+   </td>
+  </tr>
 </table>
 
 We hope you enjoy the eBeeDex! As you can see from the LICENSE file, you're welcome to use these eBees for non-commercial purposes. Please make sure you give attribution to Isovalent, linking either to [this repo](https://github.com/isovalent/ebeedex) or to [isovalent.com](isovalent.com).
