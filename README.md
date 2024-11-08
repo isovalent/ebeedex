@@ -288,7 +288,7 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
    <td><a href="#Rocket eBee" id="Rocket eBee">#31: Rocket eBee</a>
      <br />
      <br />
-        When eBee needs to reach new heights in network security and performance, there's no better way than to hop on a rocket! With Isovalent's advanced capabilities fueling the mission, eBee is off to accelerate the transformation of cloud-native networking. This isn’t just any rocket ride—it's a journey powered by the innovation of Isovalent, soaring to the stars to bring the power of Cilium to the forefront of the cloud-native ecosystem. Hold on tight, eBee, it’s going to be a thrilling ride!
+        When eBee needs to reach new heights in network security and performance, there's no better way than to hop on a rocket! With Isovalent's advanced capabilities fueling the mission, eBee is off to accelerate the transformation of cloud native networking. This isn’t just any rocket ride — it's a journey powered by the innovation of eBPF, soaring to the stars to bring the power of Cilium to the forefront of the cloud native ecosystem. Hold on tight, eBee, it’s going to be a thrilling ride!
    </td>
   </tr>
 </table>
