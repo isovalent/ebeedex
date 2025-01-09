@@ -283,6 +283,13 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
         Winter is here, and a thrill and adventure-seeking eBee, Sledding eBee, isn't shy about being outdoors. She packs her winter gear, not forgetting the sled, and off she goes. She sees the sled as more than just a tool for downhill thrills—it's a means to foster camaraderie in her community. Sledding eBee shares the season with her favorite buddies, Holiday eBee and Skiing eBee. Winter for Sledding eBee is a canvas of laughter, friendship, and heartwarming moments, all accompanied by the joy of a simple cup of hot chocolate.
    </td>
   </tr>
+  <tr>
+   <td> <img src="images/wizard-bee.png" alt="Wizard eBee" width="1500">
+   </td>
+   <td><a href="#Wizard eBee" id="Wizard eBee">#36: Wizard eBee</a>
+     <br />
+     <br />
+       Wizard eBee wields the mystical powers of eBPF in the Kubernetes universe. To many, eBPF seems like magic—transforming complex network, security, and observability tasks into effortless feats. With his enchanted toolkit, Wizard eBee uses eBPF to cast powerful spells that teleport packets, lock away cluster secretes, and illuminate what couldn't be seen before. For Wizard eBee, eBPF isn’t just a tool; it’s the magic that makes Kubernetes clusters run smoothly and securely, revealing insights and capabilities that seem almost supernatural.
   <td> <img src="images/eBee-Rocket.png" alt="Rocket eBee">
   </td>
    <td><a href="#Rocket eBee" id="Rocket eBee">#32: Rocket eBee</a>
