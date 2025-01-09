@@ -290,6 +290,18 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
      <br />
      <br />
        VR eBee is at home in the virtual world of Kubernetes clusters and cloud native infrastructure. Navigating between pods, services, and nodes, she brings a new dimension to cluster management by visualizing the network and interconnections in 3D space. Whether it’s monitoring traffic flows, troubleshooting networks, or finding malicious actors in the honey pot, VR eBee transforms complex cloud-native environments into interactive, immersive experiences. Her favorite part of Cilium is Hubble because managing Kubernetes isn’t just about code—it's about seeing the entire system in real-time and using that information to optimize it.
+   <td> <img src="images/wizard-bee.png" alt="Wizard eBee" width="1500">
+   </td>
+   <td><a href="#Wizard eBee" id="Wizard eBee">#36: Wizard eBee</a>
+     <br />
+     <br />
+       Wizard eBee wields the mystical powers of eBPF in the Kubernetes universe. To many, eBPF seems like magic—transforming complex network, security, and observability tasks into effortless feats. With his enchanted toolkit, Wizard eBee uses eBPF to cast powerful spells that teleport packets, lock away cluster secretes, and illuminate what couldn't be seen before. For Wizard eBee, eBPF isn’t just a tool; it’s the magic that makes Kubernetes clusters run smoothly and securely, revealing insights and capabilities that seem almost supernatural.
+  <td> <img src="images/eBee-Rocket.png" alt="Rocket eBee">
+  </td>
+   <td><a href="#Rocket eBee" id="Rocket eBee">#32: Rocket eBee</a>
+     <br />
+     <br />
+        When eBee needs to reach new heights in network security and performance, there's no better way than to hop on a rocket! With Isovalent's advanced capabilities fueling the mission, eBee is off to accelerate the transformation of cloud native networking. This isn’t just any rocket ride — it's a journey powered by the innovation of eBPF, soaring to the stars to bring the power of Cilium to the forefront of the cloud native ecosystem. Hold on tight, eBee, it’s going to be a thrilling ride!
    </td>
   </tr>
 </table>
