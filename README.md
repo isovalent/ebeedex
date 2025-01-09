@@ -286,7 +286,7 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
     <tr>
       <td> <img src="images/router-bee.png" alt="Router eBee">
       </td>
-      <td><a href="#Router_eBee" id="Router_eBee">#33: Router eBee</a>
+      <td><a href="#Router_eBee" id="Router_eBee">#32: Router eBee</a>
         <br>
         <br>
         Router eBee is the master navigator of the digital realm. Always equipped with his routing tables and IP addresses, he thrives in environments where connections are key. Every packet of data is a little traveler, and it's his mission to guide them safely to their destination, whether within a single cluster or across vast, interconnected networks or worlds. With his sharp instincts, Router eBee ensures that no path is ever too complex because it’s not just about the destination—it’s about finding the best path and creating harmony in the constant flow of data. Wherever there’s a need for smart routing and reliable connections, Router eBee is always there, weaving networks together with precision and grace.
@@ -295,7 +295,7 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
     <tr>
       <td> <img src="images/multi-network-bee.png" alt="Multi-Network eBee">
       </td>
-      <td><a href="#Multi-Network_eBee" id="Multi-Network_eBee">#32: Multi-Network eBee</a>
+      <td><a href="#Multi-Network_eBee" id="Multi-Network_eBee">#33: Multi-Network eBee</a>
         <br>
         <br>
         Always up for a new technical adventure, Multi-Network eBee jumps from one network to another with ease, handling multiple clusters and service meshes like second nature. She doesn’t just see multi-networking as a job—it’s her way of creating seamless connections across complex infrastructures. Whether she's linking isolated zones or bridging hybrid clouds, Multi-Network eBee is always in the thick of it. For Multi-Network eBee, it’s not just about managing traffic—it’s about building a more connected world, one more network at a time.
@@ -304,7 +304,7 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
     <tr>
       <td> <img src="images/vr-bee.png" alt="VR eBee" width="1500">
       </td>
-      <td><a href="#VR_eBee" id="VR_eBee">#35: VR eBee</a>
+      <td><a href="#VR_eBee" id="VR_eBee">#34: VR eBee</a>
         <br>
         <br>
         VR eBee is at home in the virtual world of Kubernetes clusters and cloud native infrastructure. Navigating between pods, services, and nodes, she brings a new dimension to cluster management by visualizing the network and interconnections in 3D space. Whether it’s monitoring traffic flows, troubleshooting networks, or finding malicious actors in the honey pot, VR eBee transforms complex cloud-native environments into interactive, immersive experiences. Her favorite part of Cilium is Hubble because managing Kubernetes isn’t just about code—it's about seeing the entire system in real-time and using that information to optimize it.
@@ -313,7 +313,7 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
     <tr>
       <td> <img src="images/lego-bee.png" alt="Lego eBee" width="1500">
       </td>
-      <td><a href="#Lego_eBee" id="Lego_eBee">#34: Lego eBee</a>
+      <td><a href="#Lego_eBee" id="Lego_eBee">#35: Lego eBee</a>
         <br>
         <br>
         Lego eBee loves piecing together complex cloud native environments. With a knack for modular design, building secure, scalable systems is as easy as snapping bricks together. Whether configuring network policies or fortifying security layers, Lego eBee ensures everything locks into place seamlessly to create resilient cloud infrastructures that adapt and grow to users demands. For Lego eBee, building isn’t just about putting parts together—it’s about crafting secure, dynamic systems where every piece plays a vital role.
@@ -331,7 +331,7 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
     <tr>
       <td> <img src="images/eBee-Rocket.png" alt="Rocket eBee">
       </td>
-      <td><a href="#Rocket_eBee" id="Rocket_eBee">#32: Rocket eBee</a>
+      <td><a href="#Rocket_eBee" id="Rocket_eBee">#37: Rocket eBee</a>
         <br>
         <br>
         When eBee needs to reach new heights in network security and performance, there's no better way than to hop on a rocket! With Isovalent's advanced capabilities fueling the mission, eBee is off to accelerate the transformation of cloud native networking. This isn’t just any rocket ride — it's a journey powered by the innovation of eBPF, soaring to the stars to bring the power of Cilium to the forefront of the cloud native ecosystem. Hold on tight, eBee, it’s going to be a thrilling ride!
