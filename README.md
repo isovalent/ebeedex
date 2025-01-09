@@ -188,7 +188,6 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
   <tr>
    <td> <img src="images/caribbean-bee.png" alt="Caribbean bee">
    </td>
-   </td>
    <td><a href="#Caribbean eBee" id="Caribbean eBee">#21: Caribbean eBee</a>
      <br />
      <br />
@@ -196,7 +195,6 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
    </td>
   <tr>
    <td> <img src="images/holiday-bee.png" alt="Holiday bee">
-   </td>
    </td>
    <td><a href="#Holiday eBee" id="Holiday eBee">#22: Holiday eBee</a>
      <br />
@@ -206,7 +204,6 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
   </tr>
   <tr>
    <td> <img src="images/audit-bee.png" alt="audit bee">
-   </td>
    </td>
    <td><a href="#Audit eBee" id="Audit eBee">#23: Audit eBee</a>
      <br />
