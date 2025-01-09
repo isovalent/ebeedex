@@ -284,6 +284,12 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
    </td>
   </tr>
   <tr>
+   <td> <img src="images/lego-bee.png" alt="Lego eBee" width="1500">
+   </td>
+   <td><a href="#Lego eBee" id="Lego eBee">#34: Lego eBee</a>
+     <br />
+     <br />
+       Lego eBee loves piecing together complex cloud native environments. With a knack for modular design, building secure, scalable systems is as easy as snapping bricks together. Whether configuring network policies or fortifying security layers, Lego eBee ensures everything locks into place seamlessly to create resilient cloud infrastructures that adapt and grow to users demands. For Lego eBee, building isn’t just about putting parts together—it’s about crafting secure, dynamic systems where every piece plays a vital role.
    <td> <img src="images/wizard-bee.png" alt="Wizard eBee" width="1500">
    </td>
    <td><a href="#Wizard eBee" id="Wizard eBee">#36: Wizard eBee</a>
