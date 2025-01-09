@@ -283,6 +283,13 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
         Winter is here, and a thrill and adventure-seeking eBee, Sledding eBee, isn't shy about being outdoors. She packs her winter gear, not forgetting the sled, and off she goes. She sees the sled as more than just a tool for downhill thrills—it's a means to foster camaraderie in her community. Sledding eBee shares the season with her favorite buddies, Holiday eBee and Skiing eBee. Winter for Sledding eBee is a canvas of laughter, friendship, and heartwarming moments, all accompanied by the joy of a simple cup of hot chocolate.
    </td>
   </tr>
+  </tr>
+  <td> <img src="images/multi-network-bee.png" alt="Multi-Network eBee">
+  </td>
+   <td><a href="#Multi-Network eBee" id="Sledding eBee">#32: Multi-Network eBee</a>
+     <br />
+     <br />
+        Always up for a new technical adventure, Multi-Network eBee jumps from one network to another with ease, handling multiple clusters and service meshes like second nature. She doesn’t just see multi-networking as a job—it’s her way of creating seamless connections across complex infrastructures. Whether she's linking isolated zones or bridging hybrid clouds, Multi-Network eBee is always in the thick of it. For Multi-Network eBee, it’s not just about managing traffic—it’s about building a more connected world, one more network at a time.
   <tr>
    <td> <img src="images/vr-bee.png" alt="VR eBee" width="1500">
    </td>
@@ -290,6 +297,12 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
      <br />
      <br />
        VR eBee is at home in the virtual world of Kubernetes clusters and cloud native infrastructure. Navigating between pods, services, and nodes, she brings a new dimension to cluster management by visualizing the network and interconnections in 3D space. Whether it’s monitoring traffic flows, troubleshooting networks, or finding malicious actors in the honey pot, VR eBee transforms complex cloud-native environments into interactive, immersive experiences. Her favorite part of Cilium is Hubble because managing Kubernetes isn’t just about code—it's about seeing the entire system in real-time and using that information to optimize it.
+   <td> <img src="images/lego-bee.png" alt="Lego eBee" width="1500">
+   </td>
+   <td><a href="#Lego eBee" id="Lego eBee">#34: Lego eBee</a>
+     <br />
+     <br />
+       Lego eBee loves piecing together complex cloud native environments. With a knack for modular design, building secure, scalable systems is as easy as snapping bricks together. Whether configuring network policies or fortifying security layers, Lego eBee ensures everything locks into place seamlessly to create resilient cloud infrastructures that adapt and grow to users demands. For Lego eBee, building isn’t just about putting parts together—it’s about crafting secure, dynamic systems where every piece plays a vital role.
    <td> <img src="images/wizard-bee.png" alt="Wizard eBee" width="1500">
    </td>
    <td><a href="#Wizard eBee" id="Wizard eBee">#36: Wizard eBee</a>
