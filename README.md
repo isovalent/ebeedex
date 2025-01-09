@@ -291,6 +291,12 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
      <br />
         Always up for a new technical adventure, Multi-Network eBee jumps from one network to another with ease, handling multiple clusters and service meshes like second nature. She doesn’t just see multi-networking as a job—it’s her way of creating seamless connections across complex infrastructures. Whether she's linking isolated zones or bridging hybrid clouds, Multi-Network eBee is always in the thick of it. For Multi-Network eBee, it’s not just about managing traffic—it’s about building a more connected world, one more network at a time.
   <tr>
+   <td> <img src="images/vr-bee.png" alt="VR eBee" width="1500">
+   </td>
+   <td><a href="#VR eBee" id="VR eBee">#35: VR eBee</a>
+     <br />
+     <br />
+       VR eBee is at home in the virtual world of Kubernetes clusters and cloud native infrastructure. Navigating between pods, services, and nodes, she brings a new dimension to cluster management by visualizing the network and interconnections in 3D space. Whether it’s monitoring traffic flows, troubleshooting networks, or finding malicious actors in the honey pot, VR eBee transforms complex cloud-native environments into interactive, immersive experiences. Her favorite part of Cilium is Hubble because managing Kubernetes isn’t just about code—it's about seeing the entire system in real-time and using that information to optimize it.
    <td> <img src="images/lego-bee.png" alt="Lego eBee" width="1500">
    </td>
    <td><a href="#Lego eBee" id="Lego eBee">#34: Lego eBee</a>
