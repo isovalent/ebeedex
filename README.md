@@ -289,7 +289,7 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
    <td><a href="#VR eBee" id="VR eBee">#35: VR eBee</a>
      <br />
      <br />
-       VR eBee is at home in the virtual world of Kubernetes clusters and cloud native infrastructure. Navigating between pods, services, and nodes, she brings a new dimension to cluster management by visualizing the network and interconnections in 3D space. Whether it’s monitoring traffic flows, troubleshooting networks, or finding malicious actors in the honey pot, VR eBee transforms complex cloud-native environments into interactive, immersive experiences. Her favorite part of Cilium is Hubble because managing Kubernetes isn’t just about code—it's about seeing the entire system in real-time and using that information to optomize it.
+       VR eBee is at home in the virtual world of Kubernetes clusters and cloud native infrastructure. Navigating between pods, services, and nodes, she brings a new dimension to cluster management by visualizing the network and interconnections in 3D space. Whether it’s monitoring traffic flows, troubleshooting networks, or finding malicious actors in the honey pot, VR eBee transforms complex cloud-native environments into interactive, immersive experiences. Her favorite part of Cilium is Hubble because managing Kubernetes isn’t just about code—it's about seeing the entire system in real-time and using that information to optimize it.
    </td>
   </tr>
 </table>
