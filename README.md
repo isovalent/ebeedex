@@ -283,6 +283,14 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
         Winter is here, and a thrill and adventure-seeking eBee, Sledding eBee, isn't shy about being outdoors. She packs her winter gear, not forgetting the sled, and off she goes. She sees the sled as more than just a tool for downhill thrills—it's a means to foster camaraderie in her community. Sledding eBee shares the season with her favorite buddies, Holiday eBee and Skiing eBee. Winter for Sledding eBee is a canvas of laughter, friendship, and heartwarming moments, all accompanied by the joy of a simple cup of hot chocolate.
    </td>
   </tr>
+  <tr>
+  </tr>
+  <td> <img src="images/router-bee.png" alt="Router eBee">
+  </td>
+   <td><a href="#Router eBee" id="Router eBee">#33: Router eBee</a>
+     <br />
+     <br />
+        Router eBee is the master navigator of the digital realm. Always equipped with his routing tables and IP addresses, he thrives in environments where connections are key. Every packet of data is a little traveler, and it's his mission to guide them safely to their destination, whether within a single cluster or across vast, interconnected networks or worlds. With his sharp instincts, Router eBee ensures that no path is ever too complex because it’s not just about the destination—it’s about finding the best path and creating harmony in the constant flow of data. Wherever there’s a need for smart routing and reliable connections, Router eBee is always there, weaving networks together with precision and grace.
   </tr>
   <td> <img src="images/multi-network-bee.png" alt="Multi-Network eBee">
   </td>
