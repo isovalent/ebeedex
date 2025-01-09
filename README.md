@@ -229,6 +229,7 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
        Caribbean eBee may already be at the beach for summer holiday, but Summer School eBee is heads down learning about the latest developments in cloud native. In such a quickly developing field as eBPF, there is never enough time to keep up with everything happening and summer school can be a great refresher. With all of the new projects, use cases, and features that Summer School eBee learns from Teacher eBee during the break, you'll be sure to see them answering a lot of NewBee's questions in the fall.
    </td>
   </tr>
+  <tr>
   <td> <img src="images/bulldozer-bee.png" alt="Bulldozer">
   </td>
    <td><a href="#Bulldozer eBee" id="Bulldozer eBee">#26: Bulldozer eBee</a>
@@ -237,6 +238,7 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
       Infrastructure is a constant work in progress. There is always something that needs to be built, replaced, upgraded, or renewed. Luckily, Bulldozer eBee is on the job. You'll often see him out in the field digging trenches for fiber or laying the groundwork for a new Internet exchange point. Once he is finished, Electrician eBee is often right behind him to start up the real wiring. There is also a persistent rumour circulating in the hive that Bulldozer eBee occasionally digs caches to store emergency honey supplies.
    </td>
   </tr>
+  <tr>
   <td> <img src="images/reading-bee.png" alt="Reading">
   </td>
    <td><a href="#Reading eBee" id="Reading eBee">#27: Reading eBee</a>
@@ -245,6 +247,7 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
       With her head always in a book, Reading eBee seems to be lost in the clouds. Being distracted from the buzzing of daily life doesn't mean she isn't smart, if fact Reading eBee is a well of knowledge. From being able to quote passages from Liz Rice's latest book to knowing all of the top 20 use cases for Cilium, Reading eBee can provide information sweeter than honey. Don't give her an ebook though, she loves the sensory experience of cracking open a freshly printed book or smelling the decades of dust from books hidden away on the top shelf.
    </td>
   </tr>
+  <tr>
     <td> <img src="images/hiking-bee.png" alt="Hiking">
   </td>
    <td><a href="#Hiking eBee" id="Hiking eBee">#28: Hiking eBee</a>
@@ -253,7 +256,7 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
        Armed with a backpack filled with snacks and a sense of adventure, Hiking eBee is always on the lookout for peak experiences. This eBee is no stranger to challenges. They carefully navigate rocky paths, leap across babbling streams, and scale steep cliffs, always driven by an unwavering appreciation for the outdoors. Along the way, they encounter fellow creatures of the mountain, from deer grazing to inquisitive squirrels, forging connections and cherishing the natural world. As they navigate challenging paths and form bonds with the mountain's residents, they find kindred spirits among their fellow eBees, like the tech-savvy Electrician eBee, who illuminates their night hikes with electric lanterns.
    </td>
   </tr>
-    </tr>
+  <tr>
     <td> <img src="images/guardian-bee.png" alt="Guardian">
   </td>
    <td><a href="#Guardian eBee" id="Guardian eBee">#29: Guardian eBee</a>
@@ -271,7 +274,7 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
         In the bustling world of Kubernetes, there fluttered a diligent eBee named Graduation. With a keen sense of connectivity and a deep understanding of eBPF magic, Graduation eBee set out to interweave the vast network of Kubernetes clusters. His journey began as a simple CNI craftsman, but with unwavering dedication, he evolved into a master of networking, security, and observability. On a memorable day in October 2023, the Cloud Native Computing Foundation recognized his remarkable transformation, celebrating his graduation with grand festivity.
    </td>
   </tr>
-  </tr>
+  <tr>
   <td> <img src="images/sledding-bee.png" alt="Sledding eBee">
   </td>
    <td><a href="#Sledding eBee" id="Sledding eBee">#31: Sledding eBee</a>
@@ -281,20 +284,23 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
    </td>
   </tr>
   <tr>
-  </tr>
   <td> <img src="images/router-bee.png" alt="Router eBee">
   </td>
    <td><a href="#Router eBee" id="Router eBee">#33: Router eBee</a>
      <br />
      <br />
         Router eBee is the master navigator of the digital realm. Always equipped with his routing tables and IP addresses, he thrives in environments where connections are key. Every packet of data is a little traveler, and it's his mission to guide them safely to their destination, whether within a single cluster or across vast, interconnected networks or worlds. With his sharp instincts, Router eBee ensures that no path is ever too complex because it’s not just about the destination—it’s about finding the best path and creating harmony in the constant flow of data. Wherever there’s a need for smart routing and reliable connections, Router eBee is always there, weaving networks together with precision and grace.
+   </td>
   </tr>
+  <tr>
   <td> <img src="images/multi-network-bee.png" alt="Multi-Network eBee">
   </td>
    <td><a href="#Multi-Network eBee" id="Sledding eBee">#32: Multi-Network eBee</a>
      <br />
      <br />
         Always up for a new technical adventure, Multi-Network eBee jumps from one network to another with ease, handling multiple clusters and service meshes like second nature. She doesn’t just see multi-networking as a job—it’s her way of creating seamless connections across complex infrastructures. Whether she's linking isolated zones or bridging hybrid clouds, Multi-Network eBee is always in the thick of it. For Multi-Network eBee, it’s not just about managing traffic—it’s about building a more connected world, one more network at a time.
+  </td>
+  </tr>
   <tr>
    <td> <img src="images/vr-bee.png" alt="VR eBee" width="1500">
    </td>
@@ -302,18 +308,27 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
      <br />
      <br />
        VR eBee is at home in the virtual world of Kubernetes clusters and cloud native infrastructure. Navigating between pods, services, and nodes, she brings a new dimension to cluster management by visualizing the network and interconnections in 3D space. Whether it’s monitoring traffic flows, troubleshooting networks, or finding malicious actors in the honey pot, VR eBee transforms complex cloud-native environments into interactive, immersive experiences. Her favorite part of Cilium is Hubble because managing Kubernetes isn’t just about code—it's about seeing the entire system in real-time and using that information to optimize it.
+  </td>
+  </tr>
+  <tr>
    <td> <img src="images/lego-bee.png" alt="Lego eBee" width="1500">
    </td>
    <td><a href="#Lego eBee" id="Lego eBee">#34: Lego eBee</a>
      <br />
      <br />
        Lego eBee loves piecing together complex cloud native environments. With a knack for modular design, building secure, scalable systems is as easy as snapping bricks together. Whether configuring network policies or fortifying security layers, Lego eBee ensures everything locks into place seamlessly to create resilient cloud infrastructures that adapt and grow to users demands. For Lego eBee, building isn’t just about putting parts together—it’s about crafting secure, dynamic systems where every piece plays a vital role.
+  </td>
+  </tr>
+  <tr>
    <td> <img src="images/wizard-bee.png" alt="Wizard eBee" width="1500">
    </td>
    <td><a href="#Wizard eBee" id="Wizard eBee">#36: Wizard eBee</a>
      <br />
      <br />
        Wizard eBee wields the mystical powers of eBPF in the Kubernetes universe. To many, eBPF seems like magic—transforming complex network, security, and observability tasks into effortless feats. With his enchanted toolkit, Wizard eBee uses eBPF to cast powerful spells that teleport packets, lock away cluster secretes, and illuminate what couldn't be seen before. For Wizard eBee, eBPF isn’t just a tool; it’s the magic that makes Kubernetes clusters run smoothly and securely, revealing insights and capabilities that seem almost supernatural.
+  </td>
+  </tr>
+  <tr>
   <td> <img src="images/eBee-Rocket.png" alt="Rocket eBee">
   </td>
    <td><a href="#Rocket eBee" id="Rocket eBee">#32: Rocket eBee</a>
