@@ -361,6 +361,14 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
          On and off the court, Basketball eBee brings the hustle. With lightning-fast wings and laser focus, this eBee dribbles through the chaos of modern cloud-native systems like a pro. Whether it’s executing full-court observability or dunking on insecure workloads, Basketball eBee is all about teamwork and timing. Sporting jersey number 3 (for the 3 pillars of observability, perhaps?), Basketball eBee brings high energy, discipline, and the occasional buzzer-beater to keep the Hive ahead of the game.
      </td>
     </tr>
+    <tr>
+     <td> <img src="images/aviator-bee.png" alt="Aviator eBee"> </td>
+     <td><a href="#Aviator eBee" id="Aviator eBee">#41: Aviator eBee</a>
+       <br />
+       <br />
+         Soaring through the clouds and diving into data, Aviator eBee is always ready for the next mission. Donning vintage aviator goggles and a leather flight jacket, Aviator eBee brings old-school courage to modern cloud-native skies. She helps navigate complex systems, charting the optimal flight path from ingress to egress. With a model biplane in her wing, she reminds every young eBee that even the loftiest ideas can take off with the right lift and thrust. Co-pilots include Travel eBee and Astronaut eBee—after all, flight is in their wings.
+     </td>
+    </tr>
 </table>
 
 We hope you enjoy the eBeeDex! As you can see from the LICENSE file, you're welcome to use these eBees for non-commercial purposes. Please make sure you give attribution to Isovalent, linking either to [this repo](https://github.com/isovalent/ebeedex) or to [isovalent.com](isovalent.com).
