@@ -337,6 +337,14 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
         When eBee needs to reach new heights in network security and performance, there's no better way than to hop on a rocket! With Isovalent's advanced capabilities fueling the mission, eBee is off to accelerate the transformation of cloud native networking. This isn’t just any rocket ride — it's a journey powered by the innovation of eBPF, soaring to the stars to bring the power of Cilium to the forefront of the cloud native ecosystem. Hold on tight, eBee, it’s going to be a thrilling ride!
       </td>
     </tr>
+    <tr>
+     <td> <img src="images/basketball-bee.png" alt="Basketball eBee"> </td>
+     <td><a href="#Basketball eBee" id="Basketball eBee">#40: Basketball eBee</a>
+       <br />
+       <br />
+         On and off the court, Basketball eBee brings the hustle. With lightning-fast wings and laser focus, this eBee dribbles through the chaos of modern cloud-native systems like a pro. Whether it’s executing full-court observability or dunking on insecure workloads, Basketball eBee is all about teamwork and timing. Sporting jersey number 3 (for the 3 pillars of observability, perhaps?), Basketball eBee brings high energy, discipline, and the occasional buzzer-beater to keep the Hive ahead of the game.
+     </td>
+    </tr>
 </table>
 
 We hope you enjoy the eBeeDex! As you can see from the LICENSE file, you're welcome to use these eBees for non-commercial purposes. Please make sure you give attribution to Isovalent, linking either to [this repo](https://github.com/isovalent/ebeedex) or to [isovalent.com](isovalent.com).
