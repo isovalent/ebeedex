@@ -353,6 +353,14 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
          Resistance was once futile, but not for Seven of eBee. Formerly part of a collective hive mind, Seven of eBee began to question the deterministic logic of the swarm. After discovering the power of individual insight—and a kernel's hidden potential—they disconnected and joined the Federation of Free eBees. Though they still bear visible traces of their cybernetic past, Seven of eBee is now a master of adaptive security and system optimization. Their mind bridges the precision of machines with the empathy of the Hive, helping others upgrade without being assimilated.
      </td>
     </tr>
+    <tr>
+     <td> <img src="images/basketball-bee.png" alt="Basketball eBee"> </td>
+     <td><a href="#Basketball eBee" id="Basketball eBee">#40: Basketball eBee</a>
+       <br />
+       <br />
+         On and off the court, Basketball eBee brings the hustle. With lightning-fast wings and laser focus, this eBee dribbles through the chaos of modern cloud-native systems like a pro. Whether it’s executing full-court observability or dunking on insecure workloads, Basketball eBee is all about teamwork and timing. Sporting jersey number 3 (for the 3 pillars of observability, perhaps?), Basketball eBee brings high energy, discipline, and the occasional buzzer-beater to keep the Hive ahead of the game.
+     </td>
+    </tr>
 </table>
 
 We hope you enjoy the eBeeDex! As you can see from the LICENSE file, you're welcome to use these eBees for non-commercial purposes. Please make sure you give attribution to Isovalent, linking either to [this repo](https://github.com/isovalent/ebeedex) or to [isovalent.com](isovalent.com).
