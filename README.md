@@ -369,6 +369,15 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
          Soaring through the clouds and diving into data, Aviator eBee is always ready for the next mission. Donning vintage aviator goggles and a leather flight jacket, Aviator eBee brings old-school courage to modern cloud-native skies. She helps navigate complex systems, charting the optimal flight path from ingress to egress. With a model biplane in her wing, she reminds every young eBee that even the loftiest ideas can take off with the right lift and thrust. Co-pilots include Travel eBee and Astronaut eBee—after all, flight is in their wings.
      </td>
     </tr>
+    <tr>
+      <td> <img src="images/distinguished-bee.png" alt="Distinguished eBee">
+      </td>
+      <td><a href="#Distinguished_eBee" id="Distinguished_eBee">#42: Distinguished eBee</a>
+        <br>
+        <br>
+        Spotted frequenting afternoon tea and solving mysteries with unparalleled poise, Distinguished eBee brings a touch of class to the hive. With a fine tweed suit, trusty cane, and a steaming cup of Earl Grey always in hand, this eBee embodies refinement, wit, and the spirit of a true gentlebee. Mind the moustache — it's been known to twirl when a clever idea strikes.
+      </td>
+    </tr>
 </table>
 
 We hope you enjoy the eBeeDex! As you can see from the LICENSE file, you're welcome to use these eBees for non-commercial purposes. Please make sure you give attribution to Isovalent, linking either to [this repo](https://github.com/isovalent/ebeedex) or to [isovalent.com](isovalent.com).
