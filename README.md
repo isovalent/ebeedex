@@ -337,14 +337,22 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
         When eBee needs to reach new heights in network security and performance, there's no better way than to hop on a rocket! With Isovalent's advanced capabilities fueling the mission, eBee is off to accelerate the transformation of cloud native networking. This isn’t just any rocket ride — it's a journey powered by the innovation of eBPF, soaring to the stars to bring the power of Cilium to the forefront of the cloud native ecosystem. Hold on tight, eBee, it’s going to be a thrilling ride!
       </td>
     </tr>
-  <tr>
-   <td> <img src="images/baseball-bee.png" alt="Baseball eBee"> </td>
-   <td><a href="#Baseball eBee" id="Baseball eBee">#38: Baseball eBee</a>
-     <br />
-     <br />
-       Batter up! Baseball eBee brings the precision of observability and the strategy of security onto the field. With a cap proudly displaying the eBPF bee, Baseball eBee keeps their eye on the kernel like it’s the strike zone. Their teamwork is legendary—always ready to field any packet, hit home with perfect policies, and slide into the right namespace just in time. Whether it’s spring training or a World Series of eBPF deployments, Baseball eBee plays hard, plays fair, and always plays for the Hive.
-   </td>
-  </tr>
+    <tr>
+     <td> <img src="images/baseball-bee.png" alt="Baseball eBee"> </td>
+     <td><a href="#Baseball eBee" id="Baseball eBee">#38: Baseball eBee</a>
+       <br />
+       <br />
+         Batter up! Baseball eBee brings the precision of observability and the strategy of security onto the field. With a cap proudly displaying the eBPF bee, Baseball eBee keeps their eye on the kernel like it’s the strike zone. Their teamwork is legendary—always ready to field any packet, hit home with perfect policies, and slide into the right namespace just in time. Whether it’s spring training or a World Series of eBPF deployments, Baseball eBee plays hard, plays fair, and always plays for the Hive.
+     </td>
+    </tr>
+    <tr>
+     <td> <img src="images/7-of-bee.png" alt="Seven of eBee"> </td>
+     <td><a href="#Seven of eBee" id="Seven of eBee">#39: Seven of eBee</a>
+       <br />
+       <br />
+         Resistance was once futile, but not for Seven of eBee. Formerly part of a collective hive mind, Seven of eBee began to question the deterministic logic of the swarm. After discovering the power of individual insight—and a kernel's hidden potential—they disconnected and joined the Federation of Free eBees. Though they still bear visible traces of their cybernetic past, Seven of eBee is now a master of adaptive security and system optimization. Their mind bridges the precision of machines with the empathy of the Hive, helping others upgrade without being assimilated.
+     </td>
+    </tr>
 </table>
 
 We hope you enjoy the eBeeDex! As you can see from the LICENSE file, you're welcome to use these eBees for non-commercial purposes. Please make sure you give attribution to Isovalent, linking either to [this repo](https://github.com/isovalent/ebeedex) or to [isovalent.com](isovalent.com).
