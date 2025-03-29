@@ -337,14 +337,47 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
         When eBee needs to reach new heights in network security and performance, there's no better way than to hop on a rocket! With Isovalent's advanced capabilities fueling the mission, eBee is off to accelerate the transformation of cloud native networking. This isn’t just any rocket ride — it's a journey powered by the innovation of eBPF, soaring to the stars to bring the power of Cilium to the forefront of the cloud native ecosystem. Hold on tight, eBee, it’s going to be a thrilling ride!
       </td>
     </tr>
-  <tr>
-   <td> <img src="images/baseball-bee.png" alt="Baseball eBee"> </td>
-   <td><a href="#Baseball eBee" id="Baseball eBee">#38: Baseball eBee</a>
-     <br />
-     <br />
-       Batter up! Baseball eBee brings the precision of observability and the strategy of security onto the field. With a cap proudly displaying the eBPF bee, Baseball eBee keeps their eye on the kernel like it’s the strike zone. Their teamwork is legendary—always ready to field any packet, hit home with perfect policies, and slide into the right namespace just in time. Whether it’s spring training or a World Series of eBPF deployments, Baseball eBee plays hard, plays fair, and always plays for the Hive.
-   </td>
-  </tr>
+    <tr>
+     <td> <img src="images/baseball-bee.png" alt="Baseball eBee"> </td>
+     <td><a href="#Baseball eBee" id="Baseball eBee">#38: Baseball eBee</a>
+       <br />
+       <br />
+         Batter up! Baseball eBee brings the precision of observability and the strategy of security onto the field. With a cap proudly displaying the eBPF bee, Baseball eBee keeps their eye on the kernel like it’s the strike zone. Their teamwork is legendary—always ready to field any packet, hit home with perfect policies, and slide into the right namespace just in time. Whether it’s spring training or a World Series of eBPF deployments, Baseball eBee plays hard, plays fair, and always plays for the Hive.
+     </td>
+    </tr>
+    <tr>
+     <td> <img src="images/7-of-bee.png" alt="Seven of eBee"> </td>
+     <td><a href="#Seven of eBee" id="Seven of eBee">#39: Seven of eBee</a>
+       <br />
+       <br />
+         Resistance was once futile, but not for Seven of eBee. Formerly part of a collective hive mind, Seven of eBee began to question the deterministic logic of the swarm. After discovering the power of individual insight—and a kernel's hidden potential—they disconnected and joined the Federation of Free eBees. Though they still bear visible traces of their cybernetic past, Seven of eBee is now a master of adaptive security and system optimization. Their mind bridges the precision of machines with the empathy of the Hive, helping others upgrade without being assimilated.
+     </td>
+    </tr>
+    <tr>
+     <td> <img src="images/basketball-bee.png" alt="Basketball eBee"> </td>
+     <td><a href="#Basketball eBee" id="Basketball eBee">#40: Basketball eBee</a>
+       <br />
+       <br />
+         On and off the court, Basketball eBee brings the hustle. With lightning-fast wings and laser focus, this eBee dribbles through the chaos of modern cloud-native systems like a pro. Whether it’s executing full-court observability or dunking on insecure workloads, Basketball eBee is all about teamwork and timing. Sporting jersey number 3 (for the 3 pillars of observability, perhaps?), Basketball eBee brings high energy, discipline, and the occasional buzzer-beater to keep the Hive ahead of the game.
+     </td>
+    </tr>
+    <tr>
+     <td> <img src="images/aviator-bee.png" alt="Aviator eBee"> </td>
+     <td><a href="#Aviator eBee" id="Aviator eBee">#41: Aviator eBee</a>
+       <br />
+       <br />
+         Soaring through the clouds and diving into data, Aviator eBee is always ready for the next mission. Donning vintage aviator goggles and a leather flight jacket, Aviator eBee brings old-school courage to modern cloud-native skies. She helps navigate complex systems, charting the optimal flight path from ingress to egress. With a model biplane in her wing, she reminds every young eBee that even the loftiest ideas can take off with the right lift and thrust. Co-pilots include Travel eBee and Astronaut eBee—after all, flight is in their wings.
+     </td>
+    </tr>
+    <tr>
+      <td> <img src="images/distinguished-bee.png" alt="Distinguished eBee">
+      </td>
+      <td><a href="#Distinguished_eBee" id="Distinguished_eBee">#42: Distinguished eBee</a>
+        <br>
+        <br>
+        Spotted frequenting afternoon tea and solving mysteries with unparalleled poise, Distinguished eBee brings a touch of class to the hive. With a fine tweed suit, trusty cane, and a steaming cup of Earl Grey always in hand, this eBee embodies refinement, wit, and the spirit of a true gentlebee. Mind the moustache — it's been known to twirl when a clever idea strikes.
+      </td>
+    </tr>
 </table>
 
 We hope you enjoy the eBeeDex! As you can see from the LICENSE file, you're welcome to use these eBees for non-commercial purposes. Please make sure you give attribution to Isovalent, linking either to [this repo](https://github.com/isovalent/ebeedex) or to [isovalent.com](isovalent.com).
