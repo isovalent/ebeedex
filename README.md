@@ -378,6 +378,14 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
         Spotted frequenting afternoon tea and solving mysteries with unparalleled poise, Distinguished eBee brings a touch of class to the hive. With a fine tweed suit, trusty cane, and a steaming cup of Earl Grey always in hand, this eBee embodies refinement, wit, and the spirit of a true gentlebee. Mind the moustache — it's been known to twirl when a clever idea strikes.
       </td>
     </tr>
+    <tr>
+      <td> <img src="images/samurai-bee.png" alt="Samurai eBee"> </td>
+      <td><a href="#Samurai eBee" id="Samurai eBee">#43: Samurai eBee</a>
+        <br />
+        <br />
+          Bound by honor and forged in discipline, Samurai eBee lives by a strict code—the Code of Latency Reduction and Packet Protection. Donning traditional armor emblazoned with the hive’s crest, Samurai eBee wields a glowing blade not only to defend the Hive, but also to cut through inefficient code and slash unnecessary hops. A silent sentinel of performance and reliability, Samurai eBee meditates deeply before each deployment and strikes only when precision demands it. Though trained alongside Jedi eBee, Samurai eBee walks a distinct path—one of legacy, loyalty, and lightning-fast reflexes.
+      </td>
+    </tr>
 </table>
 
 We hope you enjoy the eBeeDex! As you can see from the LICENSE file, you're welcome to use these eBees for non-commercial purposes. Please make sure you give attribution to Isovalent, linking either to [this repo](https://github.com/isovalent/ebeedex) or to [isovalent.com](isovalent.com).
