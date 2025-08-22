@@ -386,6 +386,14 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
           Bound by honor and forged in discipline, Samurai eBee lives by a strict code—the Code of Latency Reduction and Packet Protection. Donning traditional armor emblazoned with the hive’s crest, Samurai eBee wields a glowing blade not only to defend the Hive, but also to cut through inefficient code and slash unnecessary hops. A silent sentinel of performance and reliability, Samurai eBee meditates deeply before each deployment and strikes only when precision demands it. Though trained alongside Jedi eBee, Samurai eBee walks a distinct path—one of legacy, loyalty, and lightning-fast reflexes.
       </td>
     </tr>
+    <tr>
+      <td> <img src="images/multi-cloud-bee.png" alt="Multi-cloud eBee"> </td>
+      <td><a href="#Multi-cloud eBee" id="Multi-cloud eBee">#44: Multi-cloud eBee</a>
+        <br />
+        <br />
+          Connecting clouds into a single, seamless network, Multi-Cloud eBee floats gracefully across the sky. Connected by luminous threads, it guarantees that the Hive can access any platform at any time, from anywhere. Consistent, flexible, and consistently in sync, the genuine link between all clouds.
+      </td>
+    </tr>
 </table>
 
 We hope you enjoy the eBeeDex! As you can see from the LICENSE file, you're welcome to use these eBees for non-commercial purposes. Please make sure you give attribution to Isovalent, linking either to [this repo](https://github.com/isovalent/ebeedex) or to [isovalent.com](isovalent.com).
