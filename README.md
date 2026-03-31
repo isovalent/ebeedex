@@ -386,6 +386,14 @@ This eBeeDex lists all known eBees and their back story. If you find any more in
           Bound by honor and forged in discipline, Samurai eBee lives by a strict code—the Code of Latency Reduction and Packet Protection. Donning traditional armor emblazoned with the hive’s crest, Samurai eBee wields a glowing blade not only to defend the Hive, but also to cut through inefficient code and slash unnecessary hops. A silent sentinel of performance and reliability, Samurai eBee meditates deeply before each deployment and strikes only when precision demands it. Though trained alongside Jedi eBee, Samurai eBee walks a distinct path—one of legacy, loyalty, and lightning-fast reflexes.
       </td>
     </tr>
+    <tr>
+      <td> <img src="images/cowboy-bee-splunk-buttercup.png" alt="Cowboy eBee riding Buttercup"> </td>
+      <td><a href="#Cowboy eBee" id="Cowboy eBee">#44: Cowboy eBee riding Buttercup</a>
+        <br />
+        <br />
+          Cowboy eBee rides the range with her trusty steed, Buttercup, protecting the wild wild west from malicious processes far and wide. They never rest in their pursuit of adventure and collaboration. When trouble comes to town, they team up! Out on the frontier, she’s not alone. Her friend Tetragon eBee, a sharp-sensing trail partner, is often the first to catch a whiff of trouble and send word her way. In a flash, Cowboy eBee is in the saddle, Buttercup thundering across the plains as they gather the trail of clues. With a tip of her hat, she rides them back to the posse, where the whole hive can connect the dots and keep the frontier safe and sound. No rogue drifter or sneaky bandit goes unnoticed for long.
+      </td>
+    </tr>
 </table>
 
 We hope you enjoy the eBeeDex! As you can see from the LICENSE file, you're welcome to use these eBees for non-commercial purposes. Please make sure you give attribution to Isovalent, linking either to [this repo](https://github.com/isovalent/ebeedex) or to [isovalent.com](isovalent.com).
